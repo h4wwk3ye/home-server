@@ -1,0 +1,14 @@
+07/08/2021 13:27:20|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+07/08/2021 13:27:20|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+07/08/2021 13:27:20|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+07/08/2021 13:27:20|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+07/08/2021 13:27:20|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+07/08/2021 15:46:55|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+07/08/2021 16:13:01|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+07/08/2021 18:46:55|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+07/08/2021 19:13:01|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+07/08/2021 20:41:16|ERROR   |root                            |BAZARR connection to Sonarr SignalR feed has been lost.|
+07/08/2021 20:41:17|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+07/08/2021 20:42:57|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+07/08/2021 21:46:55|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+07/08/2021 22:13:01|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|

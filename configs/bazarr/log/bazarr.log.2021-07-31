@@ -1,0 +1,46 @@
+31/07/2021 03:33:24|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 03:33:24|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 03:33:24|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 03:33:24|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 03:33:25|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 10:59:07|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 10:59:07|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 10:59:07|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 10:59:07|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 10:59:08|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 13:51:37|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+31/07/2021 13:58:21|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+31/07/2021 14:17:55|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 14:17:55|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 14:17:55|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 14:17:55|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 14:17:55|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 16:42:26|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+31/07/2021 16:48:11|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+31/07/2021 17:57:21|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 17:57:21|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 17:57:21|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 17:57:21|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 17:57:21|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 18:07:27|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 18:07:27|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 18:07:27|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 18:07:27|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 18:07:27|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 18:20:16|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 18:20:16|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 18:20:16|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 18:20:16|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 18:20:16|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 18:26:51|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 18:26:51|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 18:26:51|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 18:26:51|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 18:26:51|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+31/07/2021 20:21:23|ERROR   |root                            |BAZARR connection to Sonarr SignalR feed has been lost.|
+31/07/2021 20:21:24|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 22:47:30|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+31/07/2021 22:47:30|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+31/07/2021 22:47:30|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+31/07/2021 22:47:30|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+31/07/2021 22:47:31|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|

@@ -1,0 +1,196 @@
+21-7-30 19:36:44.1|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr.dll - Version 0.8.1.2135
+21-7-30 19:36:45.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+21-7-30 19:36:46.7|Info|Router|Application mode: Interactive
+21-7-30 19:36:46.9|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+21-7-30 19:36:47.4|Info|MigrationLoggerProvider|*** VersionMigration migrating ***
+21-7-30 19:36:47.8|Info|MigrationLoggerProvider|*** VersionUniqueMigration migrating ***
+21-7-30 19:36:47.9|Info|MigrationLoggerProvider|*** VersionDescriptionMigration migrating ***
+21-7-30 19:36:48.1|Info|MigrationLoggerProvider|*** 1: InitialSetup migrating ***
+21-7-30 19:36:48.1|Info|InitialSetup|Starting migration to 1
+21-7-30 19:36:48.3|Info|MigrationLoggerProvider|*** 2: add_reason_to_pending_releases migrating ***
+21-7-30 19:36:48.3|Info|add_reason_to_pending_releases|Starting migration to 2
+21-7-30 19:36:48.4|Info|MigrationLoggerProvider|*** 3: add_medium_support migrating ***
+21-7-30 19:36:48.4|Info|add_medium_support|Starting migration to 3
+21-7-30 19:36:48.6|Info|MigrationLoggerProvider|*** 4: add_various_qualites_in_profile migrating ***
+21-7-30 19:36:48.6|Info|add_various_qualites_in_profile|Starting migration to 4
+21-7-30 19:36:48.7|Info|MigrationLoggerProvider|*** 5: metadata_profiles migrating ***
+21-7-30 19:36:48.7|Info|metadata_profiles|Starting migration to 5
+21-7-30 19:36:48.8|Info|MigrationLoggerProvider|*** 6: separate_automatic_and_interactive_search migrating ***
+21-7-30 19:36:48.8|Info|separate_automatic_and_interactive_search|Starting migration to 6
+21-7-30 19:36:49.0|Info|MigrationLoggerProvider|*** 7: change_album_path_to_relative migrating ***
+21-7-30 19:36:49.0|Info|change_album_path_to_relative|Starting migration to 7
+21-7-30 19:36:49.1|Info|MigrationLoggerProvider|*** 8: change_quality_size_mb_to_kb migrating ***
+21-7-30 19:36:49.1|Info|change_quality_size_mb_to_kb|Starting migration to 8
+21-7-30 19:36:49.2|Info|MigrationLoggerProvider|*** 9: album_releases migrating ***
+21-7-30 19:36:49.2|Info|album_releases|Starting migration to 9
+21-7-30 19:36:49.3|Info|MigrationLoggerProvider|*** 10: album_releases_fix migrating ***
+21-7-30 19:36:49.3|Info|album_releases_fix|Starting migration to 10
+21-7-30 19:36:49.4|Info|MigrationLoggerProvider|*** 11: import_lists migrating ***
+21-7-30 19:36:49.4|Info|import_lists|Starting migration to 11
+21-7-30 19:36:49.5|Info|MigrationLoggerProvider|*** 12: add_release_status migrating ***
+21-7-30 19:36:49.5|Info|add_release_status|Starting migration to 12
+21-7-30 19:36:49.6|Info|MigrationLoggerProvider|*** 13: album_download_notification migrating ***
+21-7-30 19:36:49.6|Info|album_download_notification|Starting migration to 13
+21-7-30 19:36:49.7|Info|MigrationLoggerProvider|*** 14: fix_language_metadata_profiles migrating ***
+21-7-30 19:36:49.7|Info|fix_language_metadata_profiles|Starting migration to 14
+21-7-30 19:36:49.8|Info|MigrationLoggerProvider|*** 15: remove_fanzub migrating ***
+21-7-30 19:36:49.8|Info|remove_fanzub|Starting migration to 15
+21-7-30 19:36:49.9|Info|MigrationLoggerProvider|*** 16: update_artist_history_indexes migrating ***
+21-7-30 19:36:49.9|Info|update_artist_history_indexes|Starting migration to 16
+21-7-30 19:36:50.0|Info|MigrationLoggerProvider|*** 17: remove_nma migrating ***
+21-7-30 19:36:50.0|Info|remove_nma|Starting migration to 17
+21-7-30 19:36:50.2|Info|MigrationLoggerProvider|*** 18: album_disambiguation migrating ***
+21-7-30 19:36:50.2|Info|album_disambiguation|Starting migration to 18
+21-7-30 19:36:50.3|Info|MigrationLoggerProvider|*** 19: add_ape_quality_in_profiles migrating ***
+21-7-30 19:36:50.3|Info|add_ape_quality_in_profiles|Starting migration to 19
+21-7-30 19:36:50.4|Info|MigrationLoggerProvider|*** 20: remove_pushalot migrating ***
+21-7-30 19:36:50.4|Info|remove_pushalot|Starting migration to 20
+21-7-30 19:36:50.5|Info|MigrationLoggerProvider|*** 21: add_custom_filters migrating ***
+21-7-30 19:36:50.5|Info|add_custom_filters|Starting migration to 21
+21-7-30 19:36:50.6|Info|MigrationLoggerProvider|*** 22: import_list_tags migrating ***
+21-7-30 19:36:50.6|Info|import_list_tags|Starting migration to 22
+21-7-30 19:36:50.7|Info|MigrationLoggerProvider|*** 23: add_release_groups_etc migrating ***
+21-7-30 19:36:50.7|Info|add_release_groups_etc|Starting migration to 23
+21-7-30 19:36:50.9|Info|MigrationLoggerProvider|*** 24: NewMediaInfoFormat migrating ***
+21-7-30 19:36:50.9|Info|NewMediaInfoFormat|Starting migration to 24
+21-7-30 19:36:51.0|Info|MigrationLoggerProvider|*** 25: rename_restrictions_to_release_profiles migrating ***
+21-7-30 19:36:51.0|Info|rename_restrictions_to_release_profiles|Starting migration to 25
+21-7-30 19:36:51.1|Info|MigrationLoggerProvider|*** 26: rename_quality_profiles_add_upgrade_allowed migrating ***
+21-7-30 19:36:51.1|Info|rename_quality_profiles_add_upgrade_allowed|Starting migration to 26
+21-7-30 19:36:51.3|Info|MigrationLoggerProvider|*** 27: add_import_exclusions migrating ***
+21-7-30 19:36:51.3|Info|add_import_exclusions|Starting migration to 27
+21-7-30 19:36:51.3|Info|MigrationLoggerProvider|*** 28: clean_artist_metadata_table migrating ***
+21-7-30 19:36:51.3|Info|clean_artist_metadata_table|Starting migration to 28
+21-7-30 19:36:51.4|Info|MigrationLoggerProvider|*** 29: health_issue_notification migrating ***
+21-7-30 19:36:51.4|Info|health_issue_notification|Starting migration to 29
+21-7-30 19:36:51.6|Info|MigrationLoggerProvider|*** 30: add_mediafilerepository_mtime migrating ***
+21-7-30 19:36:51.6|Info|add_mediafilerepository_mtime|Starting migration to 30
+21-7-30 19:36:51.7|Info|MigrationLoggerProvider|*** 31: add_artistmetadataid_constraint migrating ***
+21-7-30 19:36:51.7|Info|add_artistmetadataid_constraint|Starting migration to 31
+21-7-30 19:36:51.8|Info|MigrationLoggerProvider|*** 32: old_ids_and_artist_alias migrating ***
+21-7-30 19:36:51.8|Info|old_ids_and_artist_alias|Starting migration to 32
+21-7-30 19:36:51.9|Info|MigrationLoggerProvider|*** 33: download_propers_config migrating ***
+21-7-30 19:36:51.9|Info|download_propers_config|Starting migration to 33
+21-7-30 19:36:52.0|Info|MigrationLoggerProvider|*** 34: remove_language_profiles migrating ***
+21-7-30 19:36:52.0|Info|remove_language_profiles|Starting migration to 34
+21-7-30 19:36:52.1|Info|MigrationLoggerProvider|*** 35: multi_disc_naming_format migrating ***
+21-7-30 19:36:52.1|Info|multi_disc_naming_format|Starting migration to 35
+21-7-30 19:36:52.2|Info|MigrationLoggerProvider|*** 36: add_download_client_priority migrating ***
+21-7-30 19:36:52.2|Info|add_download_client_priority|Starting migration to 36
+21-7-30 19:36:52.3|Info|MigrationLoggerProvider|*** 37: remove_growl_prowl migrating ***
+21-7-30 19:36:52.3|Info|remove_growl_prowl|Starting migration to 37
+21-7-30 19:36:52.4|Info|MigrationLoggerProvider|*** 38: remove_plex_hometheatre migrating ***
+21-7-30 19:36:52.4|Info|remove_plex_hometheatre|Starting migration to 38
+21-7-30 19:36:52.4|Info|MigrationLoggerProvider|*** 39: add_root_folder_add_defaults migrating ***
+21-7-30 19:36:52.4|Info|add_root_folder_add_defaults|Starting migration to 39
+21-7-30 19:36:52.5|Info|MigrationLoggerProvider|*** 40: task_duration migrating ***
+21-7-30 19:36:52.5|Info|task_duration|Starting migration to 40
+21-7-30 19:36:52.5|Info|MigrationLoggerProvider|*** 41: add_indexer_and_enabled_to_release_profiles migrating ***
+21-7-30 19:36:52.5|Info|add_indexer_and_enabled_to_release_profiles|Starting migration to 41
+21-7-30 19:36:52.6|Info|MigrationLoggerProvider|*** 42: remove_album_folders migrating ***
+21-7-30 19:36:52.6|Info|remove_album_folders|Starting migration to 42
+21-7-30 19:36:52.7|Info|MigrationLoggerProvider|*** 44: add_priority_to_indexers migrating ***
+21-7-30 19:36:52.7|Info|add_priority_to_indexers|Starting migration to 44
+21-7-30 19:36:52.9|Info|MigrationLoggerProvider|*** 45: remove_chown_and_folderchmod_config migrating ***
+21-7-30 19:36:52.9|Info|remove_chown_and_folderchmod_config|Starting migration to 45
+21-7-30 19:36:53.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+21-7-30 19:36:53.0|Info|MigrationLoggerProvider|*** 2: add_reason_to_pending_releases migrating ***
+21-7-30 19:36:53.0|Info|add_reason_to_pending_releases|Starting migration to 2
+21-7-30 19:36:53.3|Info|MigrationLoggerProvider|*** 3: add_medium_support migrating ***
+21-7-30 19:36:53.3|Info|add_medium_support|Starting migration to 3
+21-7-30 19:36:53.5|Info|MigrationLoggerProvider|*** 4: add_various_qualites_in_profile migrating ***
+21-7-30 19:36:53.5|Info|add_various_qualites_in_profile|Starting migration to 4
+21-7-30 19:36:53.7|Info|MigrationLoggerProvider|*** 5: metadata_profiles migrating ***
+21-7-30 19:36:53.7|Info|metadata_profiles|Starting migration to 5
+21-7-30 19:36:53.8|Info|MigrationLoggerProvider|*** 6: separate_automatic_and_interactive_search migrating ***
+21-7-30 19:36:53.8|Info|separate_automatic_and_interactive_search|Starting migration to 6
+21-7-30 19:36:53.9|Info|MigrationLoggerProvider|*** 7: change_album_path_to_relative migrating ***
+21-7-30 19:36:53.9|Info|change_album_path_to_relative|Starting migration to 7
+21-7-30 19:36:54.1|Info|MigrationLoggerProvider|*** 8: change_quality_size_mb_to_kb migrating ***
+21-7-30 19:36:54.1|Info|change_quality_size_mb_to_kb|Starting migration to 8
+21-7-30 19:36:54.2|Info|MigrationLoggerProvider|*** 9: album_releases migrating ***
+21-7-30 19:36:54.2|Info|album_releases|Starting migration to 9
+21-7-30 19:36:54.4|Info|MigrationLoggerProvider|*** 10: album_releases_fix migrating ***
+21-7-30 19:36:54.4|Info|album_releases_fix|Starting migration to 10
+21-7-30 19:36:54.5|Info|MigrationLoggerProvider|*** 11: import_lists migrating ***
+21-7-30 19:36:54.5|Info|import_lists|Starting migration to 11
+21-7-30 19:36:54.7|Info|MigrationLoggerProvider|*** 12: add_release_status migrating ***
+21-7-30 19:36:54.7|Info|add_release_status|Starting migration to 12
+21-7-30 19:36:54.7|Info|MigrationLoggerProvider|*** 13: album_download_notification migrating ***
+21-7-30 19:36:54.7|Info|album_download_notification|Starting migration to 13
+21-7-30 19:36:54.8|Info|MigrationLoggerProvider|*** 14: fix_language_metadata_profiles migrating ***
+21-7-30 19:36:54.8|Info|fix_language_metadata_profiles|Starting migration to 14
+21-7-30 19:36:54.9|Info|MigrationLoggerProvider|*** 15: remove_fanzub migrating ***
+21-7-30 19:36:54.9|Info|remove_fanzub|Starting migration to 15
+21-7-30 19:36:55.1|Info|MigrationLoggerProvider|*** 16: update_artist_history_indexes migrating ***
+21-7-30 19:36:55.1|Info|update_artist_history_indexes|Starting migration to 16
+21-7-30 19:36:55.2|Info|MigrationLoggerProvider|*** 17: remove_nma migrating ***
+21-7-30 19:36:55.2|Info|remove_nma|Starting migration to 17
+21-7-30 19:36:55.3|Info|MigrationLoggerProvider|*** 18: album_disambiguation migrating ***
+21-7-30 19:36:55.3|Info|album_disambiguation|Starting migration to 18
+21-7-30 19:36:55.4|Info|MigrationLoggerProvider|*** 19: add_ape_quality_in_profiles migrating ***
+21-7-30 19:36:55.4|Info|add_ape_quality_in_profiles|Starting migration to 19
+21-7-30 19:36:55.5|Info|MigrationLoggerProvider|*** 20: remove_pushalot migrating ***
+21-7-30 19:36:55.5|Info|remove_pushalot|Starting migration to 20
+21-7-30 19:36:55.6|Info|MigrationLoggerProvider|*** 21: add_custom_filters migrating ***
+21-7-30 19:36:55.6|Info|add_custom_filters|Starting migration to 21
+21-7-30 19:36:55.7|Info|MigrationLoggerProvider|*** 22: import_list_tags migrating ***
+21-7-30 19:36:55.7|Info|import_list_tags|Starting migration to 22
+21-7-30 19:36:55.9|Info|MigrationLoggerProvider|*** 23: add_release_groups_etc migrating ***
+21-7-30 19:36:55.9|Info|add_release_groups_etc|Starting migration to 23
+21-7-30 19:36:56.0|Info|MigrationLoggerProvider|*** 24: NewMediaInfoFormat migrating ***
+21-7-30 19:36:56.0|Info|NewMediaInfoFormat|Starting migration to 24
+21-7-30 19:36:56.2|Info|MigrationLoggerProvider|*** 25: rename_restrictions_to_release_profiles migrating ***
+21-7-30 19:36:56.2|Info|rename_restrictions_to_release_profiles|Starting migration to 25
+21-7-30 19:36:56.4|Info|MigrationLoggerProvider|*** 26: rename_quality_profiles_add_upgrade_allowed migrating ***
+21-7-30 19:36:56.4|Info|rename_quality_profiles_add_upgrade_allowed|Starting migration to 26
+21-7-30 19:36:56.5|Info|MigrationLoggerProvider|*** 27: add_import_exclusions migrating ***
+21-7-30 19:36:56.5|Info|add_import_exclusions|Starting migration to 27
+21-7-30 19:36:56.7|Info|MigrationLoggerProvider|*** 28: clean_artist_metadata_table migrating ***
+21-7-30 19:36:56.7|Info|clean_artist_metadata_table|Starting migration to 28
+21-7-30 19:36:56.9|Info|MigrationLoggerProvider|*** 29: health_issue_notification migrating ***
+21-7-30 19:36:56.9|Info|health_issue_notification|Starting migration to 29
+21-7-30 19:36:57.1|Info|MigrationLoggerProvider|*** 30: add_mediafilerepository_mtime migrating ***
+21-7-30 19:36:57.1|Info|add_mediafilerepository_mtime|Starting migration to 30
+21-7-30 19:36:57.3|Info|MigrationLoggerProvider|*** 31: add_artistmetadataid_constraint migrating ***
+21-7-30 19:36:57.3|Info|add_artistmetadataid_constraint|Starting migration to 31
+21-7-30 19:36:57.4|Info|MigrationLoggerProvider|*** 32: old_ids_and_artist_alias migrating ***
+21-7-30 19:36:57.4|Info|old_ids_and_artist_alias|Starting migration to 32
+21-7-30 19:36:57.5|Info|MigrationLoggerProvider|*** 33: download_propers_config migrating ***
+21-7-30 19:36:57.5|Info|download_propers_config|Starting migration to 33
+21-7-30 19:36:57.8|Info|MigrationLoggerProvider|*** 34: remove_language_profiles migrating ***
+21-7-30 19:36:57.8|Info|remove_language_profiles|Starting migration to 34
+21-7-30 19:36:58.0|Info|MigrationLoggerProvider|*** 35: multi_disc_naming_format migrating ***
+21-7-30 19:36:58.0|Info|multi_disc_naming_format|Starting migration to 35
+21-7-30 19:36:58.2|Info|MigrationLoggerProvider|*** 36: add_download_client_priority migrating ***
+21-7-30 19:36:58.2|Info|add_download_client_priority|Starting migration to 36
+21-7-30 19:36:58.3|Info|MigrationLoggerProvider|*** 37: remove_growl_prowl migrating ***
+21-7-30 19:36:58.3|Info|remove_growl_prowl|Starting migration to 37
+21-7-30 19:36:58.4|Info|MigrationLoggerProvider|*** 38: remove_plex_hometheatre migrating ***
+21-7-30 19:36:58.4|Info|remove_plex_hometheatre|Starting migration to 38
+21-7-30 19:36:58.5|Info|MigrationLoggerProvider|*** 39: add_root_folder_add_defaults migrating ***
+21-7-30 19:36:58.5|Info|add_root_folder_add_defaults|Starting migration to 39
+21-7-30 19:36:58.7|Info|MigrationLoggerProvider|*** 40: task_duration migrating ***
+21-7-30 19:36:58.7|Info|task_duration|Starting migration to 40
+21-7-30 19:36:58.8|Info|MigrationLoggerProvider|*** 41: add_indexer_and_enabled_to_release_profiles migrating ***
+21-7-30 19:36:58.8|Info|add_indexer_and_enabled_to_release_profiles|Starting migration to 41
+21-7-30 19:36:59.0|Info|MigrationLoggerProvider|*** 42: remove_album_folders migrating ***
+21-7-30 19:36:59.0|Info|remove_album_folders|Starting migration to 42
+21-7-30 19:36:59.1|Info|MigrationLoggerProvider|*** 44: add_priority_to_indexers migrating ***
+21-7-30 19:36:59.1|Info|add_priority_to_indexers|Starting migration to 44
+21-7-30 19:36:59.2|Info|MigrationLoggerProvider|*** 45: remove_chown_and_folderchmod_config migrating ***
+21-7-30 19:36:59.2|Info|remove_chown_and_folderchmod_config|Starting migration to 45
+21-7-30 19:37:00.1|Info|WebHostController|Listening on the following URLs:
+21-7-30 19:37:00.1|Info|WebHostController|  http://*:7878
+21-7-30 19:37:00.6|Info|LidarrBootstrapper|Starting Web Server
+21-7-30 19:37:01.4|Info|QualityProfileService|Setting up default quality profiles
+21-7-30 19:37:02.1|Info|MetadataProfileService|Setting up standard metadata profile
+21-7-30 19:37:02.2|Info|MetadataProfileService|Setting up empty metadata profile
+21-7-30 19:52:33.8|Info|RssSyncService|Starting RSS Sync
+21-7-30 19:52:33.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+21-7-30 19:52:33.9|Info|DownloadDecisionMaker|No results found
+21-7-30 19:52:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+21-7-30 20:07:34.7|Info|RssSyncService|Starting RSS Sync
+21-7-30 20:07:34.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+21-7-30 20:07:34.7|Info|DownloadDecisionMaker|No results found
+21-7-30 20:07:34.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

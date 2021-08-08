@@ -1,0 +1,15 @@
+{
+  "category": "General",
+  "changelog": "New custom skin editor\n",
+  "description": "Skin manager helps you to download and install most popular skins for jellyfin\n",
+  "guid": "e9ca8b8e-ca6d-40e7-85dc-58e536df8eb3",
+  "name": "Skin Manager",
+  "overview": "Skins for jellyfin",
+  "owner": "danieladov",
+  "targetAbi": "10.7.0.0",
+  "timestamp": "2021-05-13T12:02:52.0000000Z",
+  "version": "2.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Skin Manager_2.0.0/thumb.png"
+}

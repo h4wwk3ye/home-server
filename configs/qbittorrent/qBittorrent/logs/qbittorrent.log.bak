@@ -1,0 +1,626 @@
+(N) 2021-07-30T19:34:55 - qBittorrent v4.3.6 started
+(N) 2021-07-30T19:34:55 - Using config directory: /config/qBittorrent/
+(I) 2021-07-30T19:34:55 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-30T19:34:56 - Peer ID: -qB4360-
+(N) 2021-07-30T19:34:56 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-30T19:34:56 - DHT support [ON]
+(I) 2021-07-30T19:34:56 - Local Peer Discovery support [ON]
+(I) 2021-07-30T19:34:56 - PeX support [ON]
+(I) 2021-07-30T19:34:56 - Anonymous mode [OFF]
+(I) 2021-07-30T19:34:56 - Encryption support [ON]
+(W) 2021-07-30T19:34:56 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2021-07-30T19:34:57 - Using built-in Web UI.
+(N) 2021-07-30T19:34:57 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-30T19:34:57 - Web UI: Now listening on IP: *, port: 8080
+(W) 2021-07-30T19:34:57 - Couldn't load torrents queue from '/config/qBittorrent/BT_backup/queue'. Error: No such file or directory
+(I) 2021-07-30T19:34:57 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-30T19:34:57 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-30T19:34:57 - Successfully listening on IP: 172.18.0.11, port: TCP/6881
+(I) 2021-07-30T19:34:57 - Successfully listening on IP: 172.18.0.11, port: UDP/6881
+(I) 2021-07-30T19:34:57 - Detected external IP: 103.142.53.32
+(I) 2021-07-30T19:34:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 00:05:12 2021.
+(I) 2021-07-30T19:34:58 - Successfully updated IP geolocation database.
+(W) 2021-07-30T19:39:08 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:11 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:11 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:12 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:12 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:13 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:13 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:15 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:15 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:15 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:15 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:39:19 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:40:19 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:40:22 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:40:23 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:40:59 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:00 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:00 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:14 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:15 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:32 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-30T19:41:32 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-30T19:41:44 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-30T19:41:55 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-30T19:43:00 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-30T19:43:39 - WebAPI login success. IP: ::ffff:172.18.0.6
+(N) 2021-07-30T19:52:27 - 'Inception.2010.1080p.BluRay.REMUX-DDB' added to download list.
+(N) 2021-07-30T19:53:01 - 'Inception.2010.1080p.BluRay.REMUX-DDB' was removed from the transfer list.
+(N) 2021-07-30T19:53:16 - 'Inception (2010) [1080p]' added to download list.
+(N) 2021-07-30T19:55:16 - WebAPI login success. IP: ::ffff:172.18.0.10
+(N) 2021-07-30T19:58:20 - Enqueued to move "Inception (2010) [1080p]" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T19:58:20 - Moving "Inception (2010) [1080p]" to "/data/torrents"...
+(N) 2021-07-30T19:58:20 - "Inception (2010) [1080p]" is successfully moved to "/data/torrents".
+(N) 2021-07-30T19:58:36 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-30T20:07:06 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' added to download list.
+(N) 2021-07-30T20:07:08 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' added to download list.
+(N) 2021-07-30T20:07:08 - 'Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]' added to download list.
+(N) 2021-07-30T20:07:08 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' added to download list.
+(N) 2021-07-30T20:07:08 - 'Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]' added to download list.
+(N) 2021-07-30T20:07:08 - 'Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' added to download list.
+(N) 2021-07-30T20:08:28 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2021-07-30T20:17:51 - Enqueued to move "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:17:52 - Moving "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" to "/data/torrents"...
+(N) 2021-07-30T20:17:52 - "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:18:26 - Enqueued to move "Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:18:26 - Moving "Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]" to "/data/torrents"...
+(N) 2021-07-30T20:18:27 - "Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:20:18 - WebAPI login success. IP: ::ffff:172.18.0.9
+(N) 2021-07-30T20:24:37 - Enqueued to move "Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:24:37 - Moving "Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]" to "/data/torrents"...
+(N) 2021-07-30T20:24:37 - "Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:27:01 - Enqueued to move "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:27:01 - Moving "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" to "/data/torrents"...
+(N) 2021-07-30T20:27:01 - "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:33:48 - Enqueued to move "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:33:48 - Moving "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" to "/data/torrents"...
+(N) 2021-07-30T20:33:48 - "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:33:56 - Enqueued to move "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:33:56 - Moving "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" to "/data/torrents"...
+(N) 2021-07-30T20:33:56 - "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" is successfully moved to "/data/torrents".
+(N) 2021-07-30T20:45:42 - 'ED SHEERAN - 2 NEW SINGLES- (SHAPE OF YOU - CASTLE ON THE HILL) 320 KBPS CBR ' added to download list.
+(N) 2021-07-30T20:48:27 - 'ED SHEERAN - 2 NEW SINGLES- (SHAPE OF YOU - CASTLE ON THE HILL) 320 KBPS CBR ' was removed from the transfer list and hard disk.
+(N) 2021-07-30T20:48:44 - 'Fantastic Beasts and Where to Find Them by J. K. Rowling ePUB eBOOK-ZAK' added to download list.
+(N) 2021-07-30T20:51:10 - 'Fantastic Beasts and Where to Find Them by J. K. Rowling ePUB eBOOK-ZAK' was removed from the transfer list.
+(N) 2021-07-30T20:57:05 - 'Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]' reached the maximum ratio you set. Paused.
+(N) 2021-07-30T20:58:05 - 'Loki.S01E02.The.Variant.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-30T20:59:06 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' added to download list.
+(N) 2021-07-30T20:59:18 - Enqueued to move "Dua Lipa Ft. DaBaby-Levitating.mp3" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-30T20:59:18 - Moving "Dua Lipa Ft. DaBaby-Levitating.mp3" to "/data/torrents"...
+(N) 2021-07-30T20:59:18 - "Dua Lipa Ft. DaBaby-Levitating.mp3" is successfully moved to "/data/torrents".
+(I) 2021-07-30T21:12:58 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T03:31:23 - qBittorrent v4.3.6 started
+(N) 2021-07-31T03:31:24 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T03:31:27 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T03:31:30 - Peer ID: -qB4360-
+(N) 2021-07-31T03:31:30 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T03:31:30 - DHT support [ON]
+(I) 2021-07-31T03:31:30 - Local Peer Discovery support [ON]
+(I) 2021-07-31T03:31:30 - PeX support [ON]
+(I) 2021-07-31T03:31:30 - Anonymous mode [OFF]
+(I) 2021-07-31T03:31:30 - Encryption support [ON]
+(I) 2021-07-31T03:31:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 00:05:12 2021.
+(N) 2021-07-31T03:31:32 - Using built-in Web UI.
+(N) 2021-07-31T03:31:32 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T03:31:33 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T03:31:35 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T03:31:36 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T03:31:36 - Successfully listening on IP: 172.18.0.5, port: TCP/6881
+(I) 2021-07-31T03:31:36 - Successfully listening on IP: 172.18.0.5, port: UDP/6881
+(I) 2021-07-31T03:31:36 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T03:31:38 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' restored.
+(N) 2021-07-31T03:31:38 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' restored.
+(N) 2021-07-31T03:31:38 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T03:31:38 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' restored.
+(N) 2021-07-31T03:31:38 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' restored.
+(N) 2021-07-31T03:31:38 - 'Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' restored.
+(N) 2021-07-31T03:31:38 - 'Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]' restored.
+(N) 2021-07-31T03:32:00 - 'Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T03:32:22 - WebAPI login success. IP: ::ffff:172.18.0.6
+(N) 2021-07-31T03:32:29 - WebAPI login success. IP: ::ffff:172.18.0.9
+(N) 2021-07-31T03:33:04 - 'Loki.S01E04.1080p.WEB.H264-EXPLOIT[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T03:33:05 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-07-31T03:40:09 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-07-31T04:48:04 - WebAPI login success. IP: ::ffff:192.168.0.167
+(I) 2021-07-31T05:25:31 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T10:56:42 - qBittorrent v4.3.6 started
+(N) 2021-07-31T10:56:42 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T10:56:45 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T10:56:46 - Peer ID: -qB4360-
+(N) 2021-07-31T10:56:46 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T10:56:46 - DHT support [ON]
+(I) 2021-07-31T10:56:46 - Local Peer Discovery support [ON]
+(I) 2021-07-31T10:56:46 - PeX support [ON]
+(I) 2021-07-31T10:56:46 - Anonymous mode [OFF]
+(I) 2021-07-31T10:56:46 - Encryption support [ON]
+(I) 2021-07-31T10:56:46 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T10:56:46 - Using built-in Web UI.
+(N) 2021-07-31T10:56:46 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T10:56:47 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T10:56:47 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T10:56:47 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T10:56:47 - Successfully listening on IP: 172.18.0.9, port: TCP/6881
+(I) 2021-07-31T10:56:47 - Successfully listening on IP: 172.18.0.9, port: UDP/6881
+(I) 2021-07-31T10:56:47 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T10:56:48 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' restored.
+(N) 2021-07-31T10:56:48 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' restored.
+(N) 2021-07-31T10:56:48 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T10:56:48 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' restored.
+(N) 2021-07-31T10:56:48 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' restored.
+(N) 2021-07-31T10:56:48 - 'Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' restored.
+(N) 2021-07-31T10:56:50 - WebAPI login success. IP: ::ffff:172.18.0.10
+(N) 2021-07-31T10:57:30 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-07-31T10:58:04 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2021-07-31T10:59:27 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-07-31T11:06:29 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' was removed from the transfer list and hard disk.
+(N) 2021-07-31T11:06:44 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' added to download list.
+(N) 2021-07-31T11:07:01 - Enqueued to move "Dua Lipa Ft. DaBaby-Levitating.mp3" from "/data/torrents/incomplete/" to "/data/torrents".
+(N) 2021-07-31T11:07:01 - Moving "Dua Lipa Ft. DaBaby-Levitating.mp3" to "/data/torrents"...
+(N) 2021-07-31T11:07:01 - "Dua Lipa Ft. DaBaby-Levitating.mp3" is successfully moved to "/data/torrents".
+(W) 2021-07-31T11:07:20 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:07:24 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:07:26 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:07:26 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:08:57 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:08:57 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:08:58 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:09:00 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T11:09:00 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-31T11:11:49 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T11:14:22 - 'Levitating (feat. DaBaby) FLAC (24bit-44.1kHz) EVIIIILL' added to download list.
+(N) 2021-07-31T11:25:37 - 'Levitating (feat. DaBaby) FLAC (24bit-44.1kHz) EVIIIILL' was removed from the transfer list and hard disk.
+(N) 2021-07-31T11:25:43 - 'Dua Lipa Ft. DaBaby-Levitating.mp3' was removed from the transfer list and hard disk.
+(N) 2021-07-31T11:27:12 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-31T11:32:56 - 'Inception (2010) [1080p]' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T11:34:14 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-31T11:34:30 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-07-31T11:37:50 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' added to download list.
+(N) 2021-07-31T11:42:43 - WebUI Set location: moving "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv", from "/data/torrents/" to "/data/torrents/tv"
+(N) 2021-07-31T11:42:43 - Enqueued to move "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" from "/data/torrents" to "/data/torrents/tv/".
+(N) 2021-07-31T11:42:43 - Moving "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" to "/data/torrents/tv/"...
+(N) 2021-07-31T11:42:43 - "Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv" is successfully moved to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:19 - WebUI Set location: moving "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]", from "/data/torrents/" to "/data/torrents/tv"
+(N) 2021-07-31T11:43:19 - Enqueued to move "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" from "/data/torrents" to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:19 - Moving "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" to "/data/torrents/tv/"...
+(N) 2021-07-31T11:43:19 - "Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" is successfully moved to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:44 - WebUI Set location: moving "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv", from "/data/torrents/" to "/data/torrents/tv"
+(N) 2021-07-31T11:43:44 - Enqueued to move "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" from "/data/torrents" to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:44 - Moving "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" to "/data/torrents/tv/"...
+(N) 2021-07-31T11:43:44 - "Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv" is successfully moved to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:58 - WebUI Set location: moving "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]", from "/data/torrents/" to "/data/torrents/tv"
+(N) 2021-07-31T11:43:58 - Enqueued to move "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" from "/data/torrents" to "/data/torrents/tv/".
+(N) 2021-07-31T11:43:58 - Moving "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" to "/data/torrents/tv/"...
+(N) 2021-07-31T11:43:58 - "Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]" is successfully moved to "/data/torrents/tv/".
+(N) 2021-07-31T11:44:06 - WebUI Set location: moving "Inception (2010) [1080p]", from "/data/torrents/" to "/data/torrents/movies"
+(N) 2021-07-31T11:44:06 - Enqueued to move "Inception (2010) [1080p]" from "/data/torrents" to "/data/torrents/movies/".
+(N) 2021-07-31T11:44:06 - Moving "Inception (2010) [1080p]" to "/data/torrents/movies/"...
+(N) 2021-07-31T11:44:06 - "Inception (2010) [1080p]" is successfully moved to "/data/torrents/movies/".
+(N) 2021-07-31T11:45:13 - Enqueued to move "Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG" from "/data/torrents/incomplete/" to "/data/torrents/movies".
+(N) 2021-07-31T11:45:13 - Moving "Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG" to "/data/torrents/movies"...
+(N) 2021-07-31T11:45:13 - "Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG" is successfully moved to "/data/torrents/movies".
+(N) 2021-07-31T11:58:48 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' added to download list.
+(N) 2021-07-31T12:11:12 - Enqueued to move "The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY" from "/data/torrents/incomplete/" to "/data/torrents/movies".
+(N) 2021-07-31T12:11:12 - Moving "The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY" to "/data/torrents/movies"...
+(N) 2021-07-31T12:11:12 - "The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY" is successfully moved to "/data/torrents/movies".
+(N) 2021-07-31T12:18:48 - 'That.70s.Show.S01.1080p.BluRay.x264-FilmHD[rartv]' added to download list.
+(N) 2021-07-31T12:19:04 - 'That.70s.Show.S07.1080p.BluRay.x264-YELLOWBiRD[rartv]' added to download list.
+(N) 2021-07-31T12:20:01 - 'That.70s.Show.S01.1080p.BluRay.x264-FilmHD[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T12:20:05 - 'That.70s.Show.S07.1080p.BluRay.x264-YELLOWBiRD[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T12:24:36 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T12:26:36 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T12:28:14 - 'That.70s.Show.S06.1080p.BluRay.x264-YELLOWBiRD[rartv]' added to download list.
+(N) 2021-07-31T12:28:57 - 'That.70s.Show.S06.1080p.BluRay.x264-YELLOWBiRD[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T13:42:31 - 'That.70s.Show.S05.1080p.BluRay.x264-YELLOWBiRD[rartv]' added to download list.
+(W) 2021-07-31T13:43:30 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.111'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T13:43:33 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.111'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T13:43:47 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.111'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T13:44:19 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.111'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T13:44:20 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.111'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-31T13:44:28 - WebAPI login success. IP: ::ffff:192.168.0.111
+(N) 2021-07-31T14:01:36 - 'Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T14:01:43 - 'Loki.S01E05.Journey.Into.Mystery.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T14:15:52 - qBittorrent v4.3.6 started
+(N) 2021-07-31T14:15:52 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T14:15:58 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T14:15:59 - Peer ID: -qB4360-
+(N) 2021-07-31T14:15:59 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T14:15:59 - DHT support [ON]
+(I) 2021-07-31T14:15:59 - Local Peer Discovery support [ON]
+(I) 2021-07-31T14:15:59 - PeX support [ON]
+(I) 2021-07-31T14:15:59 - Anonymous mode [OFF]
+(I) 2021-07-31T14:15:59 - Encryption support [ON]
+(I) 2021-07-31T14:16:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T14:16:03 - Using built-in Web UI.
+(N) 2021-07-31T14:16:03 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T14:16:04 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T14:16:05 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T14:16:05 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T14:16:05 - Successfully listening on IP: 172.18.0.6, port: TCP/6881
+(I) 2021-07-31T14:16:05 - Successfully listening on IP: 172.18.0.6, port: UDP/6881
+(I) 2021-07-31T14:16:05 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T14:16:10 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' restored.
+(N) 2021-07-31T14:16:10 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T14:16:10 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T14:16:10 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T14:16:10 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' restored.
+(N) 2021-07-31T14:16:10 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' restored.
+(N) 2021-07-31T14:16:10 - 'That.70s.Show.S05.1080p.BluRay.x264-YELLOWBiRD[rartv]' restored.
+(N) 2021-07-31T14:17:05 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2021-07-31T14:17:06 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2021-07-31T14:17:24 - WebAPI login success. IP: ::ffff:172.18.0.9
+(N) 2021-07-31T14:21:24 - WebAPI login success. IP: ::ffff:192.168.0.111
+(N) 2021-07-31T14:26:47 - 'That.70s.Show.S05.1080p.BluRay.x264-YELLOWBiRD[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T15:07:17 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T15:11:30 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' added to download list.
+(N) 2021-07-31T15:12:37 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T15:16:02 - 'That.70s.Show.S05.1080p.BluRay.x264-YELLOWBiRD[rartv]' added to download list.
+(N) 2021-07-31T15:22:07 - 'That.70s.Show.S05.1080p.BluRay.x264-YELLOWBiRD[rartv]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T15:24:12 - 'That.70s.Show.S05.720p.BluRay.x264-NTb[rartv]' added to download list.
+(N) 2021-07-31T15:32:37 - 'That.70s.Show.S05.Season.5.Complete.720p.BRRip.AC3.X264-MRSK' added to download list.
+(N) 2021-07-31T15:32:53 - 'That.70s.Show.S05.720p.BluRay.x264-NTb[rartv]' was removed from the transfer list.
+(N) 2021-07-31T15:36:52 - 'That.70s.Show.S05.Season.5.Complete.720p.BRRip.AC3.X264-MRSK' was removed from the transfer list and hard disk.
+(N) 2021-07-31T15:51:38 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T15:52:05 - 'Loki.S01E03.Lamentis.1080p.DSNP.WEBRip.DDP5.1.x264-TOMMY[rartv]' was removed from the transfer list and hard disk.
+(W) 2021-07-31T16:35:40 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T16:35:42 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T16:35:42 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T16:40:29 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T16:40:30 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-31T16:47:12 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T16:47:46 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' added to download list.
+(N) 2021-07-31T16:49:19 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T16:50:45 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' added to download list.
+(N) 2021-07-31T16:51:45 - Enqueued to move "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" from "/data/torrents/incomplete/" to "/data/torrents/tv".
+(N) 2021-07-31T16:51:45 - Moving "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" to "/data/torrents/tv"...
+(N) 2021-07-31T16:51:45 - "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" is successfully moved to "/data/torrents/tv".
+(N) 2021-07-31T17:07:38 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T17:08:40 - 'Loki.S01.E01.Glorious.Purpose.Repack.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv' was removed from the transfer list and hard disk.
+(N) 2021-07-31T17:19:43 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' added to download list.
+(N) 2021-07-31T17:23:28 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-07-31T17:30:28 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T17:36:15 - Enqueued to move "Harry Potter and the Chamber of Secrets (2002) [1080p]" from "/data/torrents/incomplete/" to "/data/torrents/movies".
+(N) 2021-07-31T17:36:15 - Moving "Harry Potter and the Chamber of Secrets (2002) [1080p]" to "/data/torrents/movies"...
+(N) 2021-07-31T17:36:15 - "Harry Potter and the Chamber of Secrets (2002) [1080p]" is successfully moved to "/data/torrents/movies".
+(N) 2021-07-31T17:38:38 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' reached the maximum ratio you set. Paused.
+(I) 2021-07-31T17:48:33 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T17:54:58 - qBittorrent v4.3.6 started
+(N) 2021-07-31T17:54:58 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T17:55:01 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T17:55:02 - Peer ID: -qB4360-
+(N) 2021-07-31T17:55:02 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T17:55:02 - DHT support [ON]
+(I) 2021-07-31T17:55:02 - Local Peer Discovery support [ON]
+(I) 2021-07-31T17:55:02 - PeX support [ON]
+(I) 2021-07-31T17:55:02 - Anonymous mode [OFF]
+(I) 2021-07-31T17:55:02 - Encryption support [ON]
+(I) 2021-07-31T17:55:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T17:55:04 - Using built-in Web UI.
+(N) 2021-07-31T17:55:04 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T17:55:04 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T17:55:06 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T17:55:06 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T17:55:06 - Successfully listening on IP: 172.18.0.9, port: TCP/6881
+(I) 2021-07-31T17:55:06 - Successfully listening on IP: 172.18.0.9, port: UDP/6881
+(I) 2021-07-31T17:55:06 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T17:55:11 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' restored.
+(N) 2021-07-31T17:55:11 - Enqueued to move "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" from "/data/torrents/tv" to "/data/torrents/incomplete".
+(N) 2021-07-31T17:55:11 - Moving "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" to "/data/torrents/incomplete"...
+(N) 2021-07-31T17:55:11 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' restored.
+(N) 2021-07-31T17:55:11 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T17:55:11 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T17:55:11 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' restored.
+(N) 2021-07-31T17:55:11 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T17:55:13 - "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" is successfully moved to "/data/torrents/incomplete".
+(N) 2021-07-31T17:56:10 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2021-07-31T17:56:16 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2021-07-31T17:56:21 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T17:56:45 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2021-07-31T17:57:42 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' reached the maximum ratio you set. Paused.
+(N) 2021-07-31T17:58:13 - 'Loki.S01E06.For.All.Time.Always.1080p.DSNP.WEB-DL.DDP5.1.G66.Repack.mkv' was removed from the transfer list and hard disk.
+(I) 2021-07-31T18:00:16 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T18:05:09 - qBittorrent v4.3.6 started
+(N) 2021-07-31T18:05:09 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T18:05:11 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T18:05:12 - Peer ID: -qB4360-
+(N) 2021-07-31T18:05:12 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T18:05:12 - DHT support [ON]
+(I) 2021-07-31T18:05:12 - Local Peer Discovery support [ON]
+(I) 2021-07-31T18:05:12 - PeX support [ON]
+(I) 2021-07-31T18:05:12 - Anonymous mode [OFF]
+(I) 2021-07-31T18:05:12 - Encryption support [ON]
+(I) 2021-07-31T18:05:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T18:05:13 - Using built-in Web UI.
+(N) 2021-07-31T18:05:13 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T18:05:13 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T18:05:15 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T18:05:15 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T18:05:15 - Successfully listening on IP: 172.18.0.6, port: TCP/6881
+(I) 2021-07-31T18:05:15 - Successfully listening on IP: 172.18.0.6, port: UDP/6881
+(I) 2021-07-31T18:05:15 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T18:05:19 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' restored.
+(N) 2021-07-31T18:05:19 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' restored.
+(N) 2021-07-31T18:05:19 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T18:05:19 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T18:05:19 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T18:06:15 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-07-31T18:06:17 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-07-31T18:06:44 - WebAPI login success. IP: ::ffff:172.18.0.3
+(I) 2021-07-31T18:13:55 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T18:17:01 - qBittorrent v4.3.6 started
+(N) 2021-07-31T18:17:02 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T18:17:05 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T18:17:06 - Peer ID: -qB4360-
+(N) 2021-07-31T18:17:06 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T18:17:06 - DHT support [ON]
+(I) 2021-07-31T18:17:06 - Local Peer Discovery support [ON]
+(I) 2021-07-31T18:17:06 - PeX support [ON]
+(I) 2021-07-31T18:17:06 - Anonymous mode [OFF]
+(I) 2021-07-31T18:17:06 - Encryption support [ON]
+(I) 2021-07-31T18:17:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T18:17:08 - Using built-in Web UI.
+(N) 2021-07-31T18:17:08 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T18:17:08 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T18:17:12 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T18:17:12 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T18:17:12 - Successfully listening on IP: 172.18.0.9, port: TCP/6881
+(I) 2021-07-31T18:17:12 - Successfully listening on IP: 172.18.0.9, port: UDP/6881
+(I) 2021-07-31T18:17:12 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T18:17:16 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' restored.
+(N) 2021-07-31T18:17:16 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T18:17:16 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T18:17:16 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T18:17:16 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' restored.
+(N) 2021-07-31T18:17:20 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T18:18:27 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2021-07-31T18:18:36 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-07-31T18:19:00 - WebAPI login success. IP: ::ffff:172.18.0.10
+(N) 2021-07-31T18:20:00 - WebAPI login success. IP: ::ffff:172.18.0.11
+(I) 2021-07-31T18:22:04 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T18:24:34 - qBittorrent v4.3.6 started
+(N) 2021-07-31T18:24:34 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T18:24:38 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T18:24:39 - Peer ID: -qB4360-
+(N) 2021-07-31T18:24:39 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T18:24:39 - DHT support [ON]
+(I) 2021-07-31T18:24:39 - Local Peer Discovery support [ON]
+(I) 2021-07-31T18:24:39 - PeX support [ON]
+(I) 2021-07-31T18:24:39 - Anonymous mode [OFF]
+(I) 2021-07-31T18:24:39 - Encryption support [ON]
+(I) 2021-07-31T18:24:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T18:24:42 - Using built-in Web UI.
+(N) 2021-07-31T18:24:42 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T18:24:42 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T18:24:46 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T18:24:46 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T18:24:46 - Successfully listening on IP: 172.18.0.4, port: TCP/6881
+(I) 2021-07-31T18:24:46 - Successfully listening on IP: 172.18.0.4, port: UDP/6881
+(I) 2021-07-31T18:24:46 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T18:24:50 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' restored.
+(N) 2021-07-31T18:24:50 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T18:24:50 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T18:24:50 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T18:24:50 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' restored.
+(N) 2021-07-31T18:25:03 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T18:25:40 - WebAPI login success. IP: ::ffff:172.18.0.6
+(N) 2021-07-31T18:25:55 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2021-07-31T18:26:22 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-07-31T18:28:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-07-31T18:34:23 - 'HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]' added to download list.
+(N) 2021-07-31T18:36:44 - 'HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]' was removed from the transfer list and hard disk.
+(N) 2021-07-31T18:50:55 - 'HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]' added to download list.
+(N) 2021-07-31T18:51:10 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets' added to download list.
+(N) 2021-07-31T18:52:07 - Enqueued to move "HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T18:52:07 - Moving "HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]" to "/data/torrents/books"...
+(N) 2021-07-31T18:52:07 - "HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T18:53:57 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)' added to download list.
+(N) 2021-07-31T18:54:08 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)' was removed from the transfer list and hard disk.
+(N) 2021-07-31T18:54:52 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets' was removed from the transfer list.
+(N) 2021-07-31T18:54:54 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)' added to download list.
+(N) 2021-07-31T18:57:40 - Enqueued to move "EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T18:57:40 - Moving "EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T18:57:40 - "EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T19:01:50 - WebAPI login success. IP: ::ffff:192.168.0.111
+(N) 2021-07-31T19:18:37 - 'EPL_Harry_Potter_and_the_Prisoner_of_Azkaban_(Brit._ed.)' added to download list.
+(N) 2021-07-31T19:19:01 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire' added to download list.
+(N) 2021-07-31T19:19:06 - Enqueued to move "EPL_Harry_Potter_and_the_Prisoner_of_Azkaban_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T19:19:06 - Moving "EPL_Harry_Potter_and_the_Prisoner_of_Azkaban_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T19:19:06 - "EPL_Harry_Potter_and_the_Prisoner_of_Azkaban_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T19:19:13 - 'EPL_Harry_Potter_and_the_Order_of_the_Phoenix' added to download list.
+(N) 2021-07-31T19:19:15 - 'EPL_Harry_Potter_and_the_Half-Blood_Prince' added to download list.
+(N) 2021-07-31T19:19:25 - 'EPL_Harry_Potter_and_the_Deathly_Hallows' added to download list.
+(N) 2021-07-31T19:48:54 - Enqueued to move "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" from "/data/torrents/incomplete" to "/data/torrents/tv".
+(N) 2021-07-31T19:48:54 - Moving "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" to "/data/torrents/tv"...
+(N) 2021-07-31T19:48:54 - "That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]" is successfully moved to "/data/torrents/tv".
+(N) 2021-07-31T19:49:00 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' reached the maximum ratio you set. Paused.
+(W) 2021-07-31T19:54:48 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:55:25 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:55:26 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-31T19:56:11 - 'Taylor Swift - evermore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️' added to download list.
+(W) 2021-07-31T19:56:35 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:56:36 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:56:36 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:56:36 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T19:56:37 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-07-31T20:02:51 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire' was removed from the transfer list.
+(N) 2021-07-31T20:03:24 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire' added to download list.
+(N) 2021-07-31T20:03:51 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire' was removed from the transfer list.
+(N) 2021-07-31T20:03:54 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)' added to download list.
+(N) 2021-07-31T20:03:58 - Tracker 'udp://p4p.arenabg.ch:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:03:58 - Tracker 'udp://tracker.internetwarriors.net:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:03:58 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:03:58 - Tracker 'udp://www.torrent.eu.org:451/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:04:03 - Enqueued to move "EPL_Harry_Potter_and_the_Deathly_Hallows" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T20:04:03 - Moving "EPL_Harry_Potter_and_the_Deathly_Hallows" to "/data/torrents/books"...
+(N) 2021-07-31T20:04:03 - "EPL_Harry_Potter_and_the_Deathly_Hallows" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T20:04:27 - Enqueued to move "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T20:04:27 - Moving "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T20:04:27 - "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T20:04:34 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)' was removed from the transfer list and hard disk.
+(N) 2021-07-31T20:05:25 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)' added to download list.
+(N) 2021-07-31T20:05:59 - Tracker 'udp://p4p.arenabg.ch:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:05:59 - Tracker 'udp://tracker.internetwarriors.net:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:05:59 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:05:59 - Tracker 'udp://www.torrent.eu.org:451/announce' was added to torrent 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)'
+(N) 2021-07-31T20:06:51 - Enqueued to move "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T20:06:51 - Moving "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T20:06:51 - "EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T20:07:12 - Enqueued to move "Taylor Swift - evermore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️" from "/data/torrents/incomplete/" to "/data/torrents/music".
+(N) 2021-07-31T20:07:12 - Moving "Taylor Swift - evermore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️" to "/data/torrents/music"...
+(N) 2021-07-31T20:07:12 - "Taylor Swift - evermore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️" is successfully moved to "/data/torrents/music".
+(N) 2021-07-31T20:07:35 - 'EPL_Harry_Potter_and_the_Half-Blood_Prince' was removed from the transfer list.
+(N) 2021-07-31T20:07:38 - 'EPL_Harry_Potter_and_the_Order_of_the_Phoenix' was removed from the transfer list.
+(N) 2021-07-31T20:07:52 - 'EPL_Harry_Potter_and_the_Half-Blood_Prince_(Brit._ed.)' added to download list.
+(N) 2021-07-31T20:07:54 - 'EPL_Harry_Potter_and_the_Order_of_the_Phoenix_(Brit._ed.)' added to download list.
+(N) 2021-07-31T20:09:17 - Enqueued to move "EPL_Harry_Potter_and_the_Order_of_the_Phoenix_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T20:09:17 - Moving "EPL_Harry_Potter_and_the_Order_of_the_Phoenix_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T20:09:17 - "EPL_Harry_Potter_and_the_Order_of_the_Phoenix_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(N) 2021-07-31T20:09:31 - Enqueued to move "EPL_Harry_Potter_and_the_Half-Blood_Prince_(Brit._ed.)" from "/data/torrents/incomplete/" to "/data/torrents/books".
+(N) 2021-07-31T20:09:31 - Moving "EPL_Harry_Potter_and_the_Half-Blood_Prince_(Brit._ed.)" to "/data/torrents/books"...
+(N) 2021-07-31T20:09:31 - "EPL_Harry_Potter_and_the_Half-Blood_Prince_(Brit._ed.)" is successfully moved to "/data/torrents/books".
+(I) 2021-07-31T20:21:21 - UPnP / NAT-PMP support [OFF]
+(N) 2021-07-31T22:45:11 - qBittorrent v4.3.6 started
+(N) 2021-07-31T22:45:11 - Using config directory: /config/qBittorrent/
+(I) 2021-07-31T22:45:15 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2021-07-31T22:45:16 - Peer ID: -qB4360-
+(N) 2021-07-31T22:45:16 - HTTP User-Agent is 'qBittorrent/4.3.6'
+(I) 2021-07-31T22:45:16 - DHT support [ON]
+(I) 2021-07-31T22:45:16 - Local Peer Discovery support [ON]
+(I) 2021-07-31T22:45:16 - PeX support [ON]
+(I) 2021-07-31T22:45:16 - Anonymous mode [OFF]
+(I) 2021-07-31T22:45:16 - Encryption support [ON]
+(I) 2021-07-31T22:45:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 1 05:35:12 2021.
+(N) 2021-07-31T22:45:18 - Using built-in Web UI.
+(N) 2021-07-31T22:45:18 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2021-07-31T22:45:18 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-07-31T22:45:22 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2021-07-31T22:45:23 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2021-07-31T22:45:23 - Successfully listening on IP: 172.18.0.2, port: TCP/6881
+(I) 2021-07-31T22:45:23 - Successfully listening on IP: 172.18.0.2, port: UDP/6881
+(I) 2021-07-31T22:45:23 - Detected external IP: 103.142.53.32
+(N) 2021-07-31T22:45:30 - 'Taylor Swift - evermore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️' restored.
+(N) 2021-07-31T22:45:30 - 'HP1 - Harry Potter and the Sorcerer&#039;s Stone - J.K. Rowling (PDF, AZW, ePUB, RTF) 1997 [UJ]' restored.
+(N) 2021-07-31T22:45:30 - 'That &#039;70s Show (1998) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AAC 5.1 FreetheFish) [QxR]' restored.
+(N) 2021-07-31T22:45:30 - 'Harry Potter and the Chamber of Secrets (2002) [1080p]' restored.
+(N) 2021-07-31T22:45:30 - 'Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-07-31T22:45:30 - 'The.Boss.Baby.Family.Business.2021.1080p.PCOK.WEBRip.DDP5.1.x264-TOMMY' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Chamber_of_Secrets_(Brit._ed.)' restored.
+(N) 2021-07-31T22:45:30 - 'Inception (2010) [1080p]' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Half-Blood_Prince_(Brit._ed.)' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Prisoner_of_Azkaban_(Brit._ed.)' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Deathly_Hallows' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Goblet_of_Fire_(Brit._ed.)' restored.
+(N) 2021-07-31T22:45:30 - 'EPL_Harry_Potter_and_the_Order_of_the_Phoenix_(Brit._ed.)' restored.
+(N) 2021-07-31T22:46:34 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-07-31T22:46:35 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-07-31T22:46:57 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-07-31T22:53:35 - WebAPI login success. IP: ::ffff:192.168.0.111
+(N) 2021-07-31T22:53:42 - 'Money Heist S01 Season 1 1080p ENG-SPA WEB-DL AAC2.0 x264' added to download list.
+(N) 2021-07-31T22:53:43 - '[zooqle.com] Money Heist (2017) Season 02 S02 (1080p NF WEB-DL x265 HEVC 10bit AC3 5.1 Qman)' added to download list.
+(N) 2021-07-31T22:53:44 - '[zooqle.com] Money Heist S01E01 1080p NF WEB-DL DDP2 0 x264-Mooi1990 [eztv]' added to download list.
+(N) 2021-07-31T22:56:37 - '[zooqle.com] Money Heist S01E01 1080p NF WEB-DL DDP2 0 x264-Mooi1990 [eztv]' was removed from the transfer list.
+(N) 2021-07-31T23:01:39 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-07-31T23:02:39 - 'Money Heist S01 Season 1 1080p ENG-SPA WEB-DL AAC2.0 x264' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:02:39 - '[zooqle.com] Money Heist (2017) Season 02 S02 (1080p NF WEB-DL x265 HEVC 10bit AC3 5.1 Qman)' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:02:43 - '[zooqle.com] Money Heist S02E08 iNTERNAL MULTi 1080p WEB x264-N3TFL1X' added to download list.
+(N) 2021-07-31T23:03:07 - '[zooqle.com] Money Heist S02E09 iNTERNAL FiNAL MULTi 1080p WEB x264-N3TFL1X' added to download list.
+(N) 2021-07-31T23:03:18 - '[zooqle.com] Money Heist S02E09 iNTERNAL FiNAL MULTi 1080p WEB x264-N3TFL1X' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:03:18 - '[zooqle.com] Money Heist S02E08 iNTERNAL MULTi 1080p WEB x264-N3TFL1X' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:03:36 - '[zooqle.com] Money Heist (2017) Season 02 S02 (1080p NF WEB-DL x265 HEVC 10bit AC3 5.1 Qman)' added to download list.
+(N) 2021-07-31T23:04:09 - '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)' added to download list.
+(N) 2021-07-31T23:05:58 - 'Money.Heist.S03E01.We&#039;re.Back.1080p.ENGDubbed-ExtremlymTorrents' added to download list.
+(N) 2021-07-31T23:08:50 - Tracker 'udp://9.rarbg.com:2710/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.opentrackr.org:1337/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.torrent.eu.org:451/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.leechers-paradise.org:6969/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.coppersurfer.tk:6969/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.zer0day.to:1337/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://tracker.leechers-paradise.org:6969/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:08:50 - Tracker 'udp://coppersurfer.tk:6969/announce' was added to torrent '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)'
+(N) 2021-07-31T23:09:11 - '[zooqle.com] Money Heist (2017) Season 02 S02 (1080p NF WEB-DL x265 HEVC 10bit AC3 5.1 Qman)' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:09:55 - 'Money Heist (2017) Season 02 S02 (1080p NF WEB-DL x265 HEVC 10bit AC3 5.1 Qman) [UTR]' added to download list.
+(N) 2021-07-31T23:13:03 - '[zooqle.com] Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2 0 Qman)' was removed from the transfer list and hard disk.
+(N) 2021-07-31T23:13:36 - 'Money Heist (2017) Season 01 S01 (1080p BluRay x265 HEVC 10bit FLAC 2.0 Qman) [UTR]' added to download list.
+(W) 2021-07-31T23:22:53 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T23:22:55 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-07-31T23:23:08 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-08-01T00:11:46 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-08-01T00:11:48 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-08-01T00:11:49 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-08-01T00:11:49 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-08-01T00:12:49 - WebAPI login success. IP: ::ffff:172.18.0.11
+(W) 2021-08-01T00:12:55 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(W) 2021-08-01T00:12:56 - WebUI: Referer header & Target origin mismatch! Source IP: '::ffff:192.168.0.167'. Referer header: 'http://192.168.0.3:9000/'. Target origin: '192.168.0.3:8080'
+(N) 2021-08-01T00:13:01 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-08-01T00:30:53 - Web UI: Now listening on IP: *, port: 8080
+(N) 2021-08-01T00:31:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:31:31 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:31:39 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:32:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:32:50 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:33:01 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:33:09 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:33:40 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:34:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:34:31 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:34:39 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:35:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:35:50 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:36:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:36:09 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:36:41 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:37:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:37:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:37:39 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:38:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:38:50 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:39:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:39:09 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:39:41 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:40:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:40:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:40:39 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:41:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:41:50 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:42:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:42:09 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:42:41 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:43:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:43:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:43:39 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:44:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:44:50 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:45:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:45:10 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:45:41 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:45:47 - WebAPI login success. IP: ::ffff:192.168.0.167
+(N) 2021-08-01T00:46:20 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:46:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:46:40 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:47:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:47:51 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:48:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:48:10 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:48:41 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:49:21 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:49:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:49:40 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:50:11 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:50:51 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:51:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:51:10 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:51:42 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:52:21 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:52:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:52:40 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:53:12 - WebAPI login success. IP: ::ffff:172.18.0.8
+(N) 2021-08-01T00:53:51 - WebAPI login success. IP: ::ffff:172.18.0.11
+(N) 2021-08-01T00:54:02 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2021-08-01T00:54:10 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2021-08-01T00:54:42 - WebAPI login success. IP: ::ffff:172.18.0.8

@@ -1,0 +1,2120 @@
+2021-08-07 13:25:21.117 +05:30 [Information] Default Quartz.NET properties loaded from embedded resource file
+2021-08-07 13:25:21.381 +05:30 [Debug] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-08-07 13:25:21.751 +05:30 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-08-07 13:25:21.756 +05:30 [Information] Quartz Scheduler v."3.1.0.0" created.
+2021-08-07 13:25:21.758 +05:30 [Information] RAMJobStore initialized.
+2021-08-07 13:25:21.762 +05:30 [Information] Scheduler meta-data: Quartz Scheduler (v3.1.0.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-08-07 13:25:21.762 +05:30 [Information] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-08-07 13:25:21.762 +05:30 [Information] Quartz scheduler version: 3.1.0.0
+2021-08-07 13:25:21.763 +05:30 [Information] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2021-08-07 13:25:21.843 +05:30 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-08-07 13:25:21.848 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:25:51.453 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:26:20.151 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:26:45.633 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:27:11.179 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:27:39.753 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:28:07.857 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:28:31.514 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:28:56.290 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:29:21.874 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:29:48.228 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:30:00.014 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:30:00.014 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:30:00.047 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 13:30:00.047 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 13:30:00.065 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 13:30:00.065 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 13:30:28.504 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:30:52.450 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:31:17.348 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:31:42.571 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:32:07.351 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:32:30.966 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:33:00.227 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:33:24.766 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:33:50.815 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:34:18.750 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:34:45.276 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 13:35:00.021 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 13:35:27.263 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:35:52.322 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:36:15.692 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:36:43.569 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:37:09.752 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:37:36.271 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:38:00.041 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:38:25.685 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:38:52.201 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:39:20.919 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:39:49.465 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 13:40:00.728 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:40:00.730 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 13:40:00.731 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:40:00.732 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 13:40:01.148 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 13:40:01.148 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:40:01.148 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 13:40:01.148 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 13:40:01.149 +05:30 [Debug] Deleting trigger
+2021-08-07 13:40:01.183 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 13:40:01.184 +05:30 [Debug] Deleting trigger
+2021-08-07 13:40:24.999 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:40:54.660 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:41:23.686 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:41:47.912 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:42:17.474 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:42:44.705 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:43:13.084 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:43:39.409 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:44:08.607 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:44:33.660 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:44:57.405 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:45:24.644 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:45:51.754 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:46:16.401 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:46:44.460 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:47:08.952 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:47:35.143 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:47:59.459 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:48:24.905 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:48:49.399 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:49:18.474 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:49:44.640 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:50:10.955 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:50:40.916 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:51:04.598 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:51:30.870 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:51:56.477 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:52:21.196 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:52:46.634 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:53:13.476 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:53:41.389 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:54:07.699 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:54:37.340 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:55:06.184 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:55:32.043 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:56:00.579 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:56:27.265 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:56:53.892 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:57:19.449 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:57:43.225 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:58:07.908 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:58:33.408 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:59:01.425 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:59:29.724 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 13:59:56.145 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 14:00:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:00:26.762 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:00:53.921 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:01:17.211 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:01:45.144 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:02:14.523 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:02:38.912 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:03:07.278 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:03:36.956 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:04:06.793 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:04:31.830 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 14:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:05:00.001 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 14:05:00.023 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:05:00.524 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:05:00.525 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:05:00.525 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 14:05:00.525 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:05:00.867 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:05:00.867 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:05:00.867 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:05:00.867 +05:30 [Debug] Deleting trigger
+2021-08-07 14:05:00.867 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 14:05:00.903 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:05:00.903 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:05:00.903 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 14:05:00.903 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:05:00.903 +05:30 [Debug] Deleting trigger
+2021-08-07 14:05:00.973 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:05:00.973 +05:30 [Debug] Deleting trigger
+2021-08-07 14:05:26.436 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:05:50.787 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:06:16.854 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:06:40.259 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:07:09.064 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:07:37.213 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:08:05.797 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:08:32.106 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:08:55.184 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:09:23.137 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:09:48.864 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 14:10:01.808 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:10:01.809 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:10:01.809 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 14:10:01.809 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:10:01.889 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:10:01.889 +05:30 [Debug] Deleting trigger
+2021-08-07 14:10:28.198 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:10:51.995 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:11:15.634 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:11:45.205 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:12:10.317 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:12:40.192 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:13:07.150 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:13:31.465 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:14:01.231 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:14:30.008 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 14:15:00.341 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:15:00.341 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:15:00.341 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:15:00.341 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 14:15:00.351 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:15:00.351 +05:30 [Debug] Deleting trigger
+2021-08-07 14:15:23.758 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:15:49.730 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:16:17.002 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:16:40.567 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:17:09.777 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:17:35.592 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:18:02.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:18:31.859 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:19:01.374 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:19:31.210 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:19:57.344 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:20:24.198 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:20:53.534 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:21:21.436 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:21:47.263 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:22:12.012 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:22:37.301 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:23:00.678 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:23:30.269 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:23:58.604 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:24:21.716 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:24:44.887 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:25:12.664 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:25:37.397 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:26:04.662 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:26:30.046 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:26:59.559 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:27:24.949 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:27:53.052 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:28:22.576 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:28:45.687 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:29:15.626 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:29:44.605 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 14:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 14:30:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:30:00.016 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:30:25.796 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:30:54.535 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:31:23.442 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:31:52.953 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:32:19.738 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:32:48.993 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:33:16.466 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:33:41.640 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:34:06.057 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:34:35.041 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 14:35:00.018 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:35:28.245 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:35:53.478 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:36:21.254 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:36:49.440 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:37:14.339 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:37:37.468 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:38:06.477 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:38:35.757 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:39:03.504 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:39:28.721 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:39:52.596 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 14:40:00.228 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 14:40:00.228 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:40:00.228 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:40:00.228 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 14:40:00.488 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 14:40:00.488 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:40:00.488 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:40:00.489 +05:30 [Debug] Deleting trigger
+2021-08-07 14:40:00.490 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 14:40:00.519 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 14:40:00.519 +05:30 [Debug] Deleting trigger
+2021-08-07 14:40:28.885 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:40:54.618 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:41:21.643 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:41:45.531 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:42:13.445 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:42:37.520 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:43:05.532 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:43:32.371 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:44:01.928 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:44:25.476 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:44:52.323 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:45:19.115 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:45:48.689 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:46:18.542 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:46:45.424 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:47:09.386 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:47:37.905 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:48:02.724 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:48:26.248 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:48:55.723 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:49:20.063 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:49:46.119 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:50:10.979 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:50:37.932 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:51:02.797 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:51:27.018 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:51:55.375 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:52:22.275 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:52:47.962 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:53:13.041 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:53:39.175 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:54:07.715 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:54:36.811 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:55:04.852 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:55:31.551 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:56:00.648 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:56:30.525 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:56:59.922 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:57:24.321 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:57:52.550 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:58:15.855 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:58:45.830 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:59:10.082 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 14:59:36.758 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 15:00:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:00:23.130 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:00:49.428 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:01:16.741 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:01:39.746 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:02:06.456 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:02:34.845 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:03:01.499 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:03:24.562 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:03:49.691 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:04:19.118 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:04:42.942 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:05:00.000 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 15:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 15:05:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:05:00.183 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:05:00.183 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:05:00.183 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:05:00.183 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 15:05:00.384 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:05:00.384 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:05:00.384 +05:30 [Debug] Deleting trigger
+2021-08-07 15:05:00.384 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 15:05:00.384 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:05:00.391 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:05:00.391 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:05:00.391 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 15:05:00.391 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:05:00.391 +05:30 [Debug] Deleting trigger
+2021-08-07 15:05:00.400 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:05:00.400 +05:30 [Debug] Deleting trigger
+2021-08-07 15:05:24.804 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:05:49.924 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:06:16.437 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:06:39.696 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:07:09.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:07:32.927 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:08:00.671 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:08:23.725 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:08:48.960 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:09:14.436 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:09:42.960 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 15:10:01.374 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:10:01.374 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:10:01.375 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:10:01.375 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 15:10:01.391 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:10:01.391 +05:30 [Debug] Deleting trigger
+2021-08-07 15:10:30.623 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:10:58.910 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:11:25.688 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:11:48.825 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:12:16.414 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:12:43.988 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:13:10.311 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:13:35.567 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:14:03.880 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:14:28.418 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:14:54.404 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 15:15:00.240 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:15:00.240 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:15:00.240 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:15:00.240 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 15:15:00.255 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:15:00.255 +05:30 [Debug] Deleting trigger
+2021-08-07 15:15:29.077 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:15:54.034 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:16:21.590 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:16:45.120 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:17:13.166 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:17:36.292 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:18:02.080 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:18:28.994 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:18:57.712 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:19:22.721 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:19:45.904 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:20:11.660 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:20:41.604 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:21:07.050 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:21:35.129 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:21:59.785 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:22:28.231 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:22:51.314 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:23:14.591 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:23:44.204 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:24:08.709 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:24:33.642 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:24:57.361 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:25:20.895 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:25:47.372 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:26:14.934 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:26:43.455 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:27:07.560 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:27:34.075 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:28:02.588 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:28:26.137 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:28:52.236 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:29:18.162 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:29:43.989 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 15:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 15:30:00.011 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:30:00.011 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:30:25.464 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:30:48.957 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:31:16.029 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:31:43.729 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:32:07.453 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:32:36.552 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:33:00.675 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:33:28.505 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:33:52.563 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:34:19.579 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:34:42.665 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 15:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:35:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:35:28.244 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:35:55.835 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:36:23.870 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:36:51.810 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:37:17.298 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:37:40.927 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:38:05.749 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:38:34.923 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:38:59.446 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:39:26.786 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:39:52.388 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 15:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:40:00.250 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:40:00.250 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 15:40:00.250 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:40:00.250 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 15:40:00.593 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 15:40:00.593 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:40:00.593 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:40:00.593 +05:30 [Debug] Deleting trigger
+2021-08-07 15:40:00.593 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 15:40:00.609 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 15:40:00.609 +05:30 [Debug] Deleting trigger
+2021-08-07 15:40:27.406 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:40:52.796 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:41:19.460 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:41:48.078 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:42:12.928 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:42:42.348 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:43:11.376 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:43:41.267 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:44:08.186 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:44:33.808 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:45:00.860 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:45:28.565 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:45:51.578 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:46:18.413 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:46:46.111 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:47:16.057 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:47:40.790 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:48:05.198 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:48:34.832 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:49:00.524 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:49:23.644 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:49:50.741 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:50:14.226 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:50:43.297 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:51:08.882 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:51:37.272 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:52:02.396 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:52:31.985 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:52:59.145 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:53:27.275 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:53:56.736 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:54:25.537 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:54:53.493 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:55:19.822 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:55:43.697 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:56:07.433 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:56:31.679 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:56:56.534 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:57:23.569 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:57:47.732 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:58:14.670 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:58:43.039 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:59:06.167 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 15:59:30.375 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 16:00:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:00:24.832 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:00:49.548 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:01:13.759 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:01:38.644 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:02:04.898 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:02:32.179 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:03:01.405 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:03:25.531 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:03:52.888 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:04:20.195 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:04:49.806 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 16:05:00.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:05:00.001 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 16:05:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:05:00.173 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:05:00.173 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:05:00.173 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:05:00.173 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 16:05:00.344 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:05:00.344 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:05:00.344 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:05:00.344 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 16:05:00.344 +05:30 [Debug] Deleting trigger
+2021-08-07 16:05:00.353 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:05:00.353 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:05:00.353 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:05:00.353 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 16:05:00.353 +05:30 [Debug] Deleting trigger
+2021-08-07 16:05:00.363 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:05:00.363 +05:30 [Debug] Deleting trigger
+2021-08-07 16:05:24.069 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:05:47.860 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:06:15.794 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:06:41.028 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:07:08.028 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:07:31.531 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:07:58.896 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:08:28.893 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:08:52.721 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:09:20.846 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:09:45.057 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 16:10:01.753 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:10:01.753 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:10:01.754 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:10:01.754 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 16:10:01.770 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:10:01.770 +05:30 [Debug] Deleting trigger
+2021-08-07 16:10:28.284 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:10:51.818 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:11:17.998 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:11:47.494 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:12:15.616 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:12:44.713 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:13:13.438 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:13:40.236 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:14:05.134 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:14:29.574 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:14:52.591 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 16:15:00.338 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:15:00.338 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:15:00.339 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:15:00.339 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 16:15:00.355 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:15:00.355 +05:30 [Debug] Deleting trigger
+2021-08-07 16:15:24.671 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:15:53.972 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:16:21.205 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:16:44.353 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:17:09.883 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:17:36.722 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:18:05.831 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:18:29.046 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:18:58.608 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:19:24.840 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:19:51.236 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:20:16.520 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:20:41.203 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:21:06.850 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:21:34.394 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:21:58.669 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:22:24.735 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:22:52.671 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:23:20.858 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:23:46.067 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:24:15.179 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:24:40.079 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:25:05.092 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:25:30.791 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:25:55.406 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:26:24.075 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:26:48.284 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:27:16.950 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:27:45.550 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:28:14.606 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:28:38.253 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:29:01.254 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:29:28.684 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:29:55.414 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 16:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:30:00.001 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 16:30:00.014 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:30:00.014 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:30:29.364 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:30:56.591 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:31:23.789 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:31:51.458 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:32:20.541 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:32:49.410 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:33:16.473 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:33:45.957 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:34:10.580 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:34:37.198 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 16:35:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:35:27.232 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:35:53.483 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:36:21.615 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:36:50.597 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:37:15.051 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:37:44.827 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:38:10.498 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:38:38.388 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:39:01.997 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:39:26.814 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:39:56.110 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 16:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:40:00.303 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 16:40:00.303 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:40:00.303 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 16:40:00.304 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:40:00.629 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 16:40:00.629 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:40:00.629 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:40:00.629 +05:30 [Debug] Deleting trigger
+2021-08-07 16:40:00.629 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 16:40:00.639 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 16:40:00.639 +05:30 [Debug] Deleting trigger
+2021-08-07 16:40:29.530 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:40:58.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:41:23.100 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:41:48.596 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:42:13.275 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:42:42.818 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:43:10.928 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:43:33.935 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:43:58.735 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:44:24.185 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:44:52.812 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:45:16.624 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:45:42.264 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:46:11.384 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:46:34.908 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:47:01.466 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:47:29.104 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:47:53.200 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:48:17.266 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:48:46.891 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:49:13.734 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:49:39.750 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:50:05.286 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:50:34.008 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:50:58.896 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:51:24.801 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:51:51.628 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:52:20.954 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:52:50.938 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:53:15.622 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:53:44.322 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:54:10.147 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:54:36.219 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:55:00.431 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:55:29.195 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:55:52.792 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:56:17.855 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:56:41.225 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:57:04.571 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:57:29.538 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:57:52.658 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:58:16.039 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:58:40.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:59:07.393 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 16:59:36.897 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 17:00:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:00:28.398 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:00:53.179 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:01:18.168 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:01:43.328 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:02:08.109 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:02:34.483 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:03:00.835 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:03:30.232 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:03:57.511 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:04:22.611 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:04:48.783 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 17:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:05:00.000 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 17:05:00.014 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:05:00.178 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:05:00.178 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:05:00.178 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:05:00.179 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 17:05:00.412 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:05:00.412 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:05:00.412 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:05:00.412 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 17:05:00.412 +05:30 [Debug] Deleting trigger
+2021-08-07 17:05:00.422 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:05:00.422 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:05:00.422 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:05:00.422 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 17:05:00.422 +05:30 [Debug] Deleting trigger
+2021-08-07 17:05:00.428 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:05:00.428 +05:30 [Debug] Deleting trigger
+2021-08-07 17:05:26.619 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:05:50.146 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:06:14.723 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:06:38.937 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:07:02.447 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:07:31.351 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:07:57.424 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:08:23.525 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:08:51.367 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:09:15.337 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:09:42.982 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:09:49.244 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:09:49.244 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:09:49.245 +05:30 [Debug] Calling Execute on job Notifications.INotificationService
+2021-08-07 17:09:49.459 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:09:49.459 +05:30 [Debug] Deleting trigger
+2021-08-07 17:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 17:10:01.386 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:10:01.386 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:10:01.386 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:10:01.386 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 17:10:01.402 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:10:01.403 +05:30 [Debug] Deleting trigger
+2021-08-07 17:10:24.444 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:10:53.443 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:11:17.484 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:11:47.031 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:12:10.735 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:12:40.394 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:13:06.929 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:13:30.093 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:13:57.150 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:14:21.469 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:14:45.495 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 17:15:00.280 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:15:00.280 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:15:00.280 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:15:00.280 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 17:15:00.290 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:15:00.290 +05:30 [Debug] Deleting trigger
+2021-08-07 17:15:27.542 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:15:52.035 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:16:15.775 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:16:41.244 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:17:10.860 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:17:38.712 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:18:05.937 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:18:32.952 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:19:02.646 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:19:26.647 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:19:51.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:20:19.424 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:20:43.843 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:21:07.986 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:21:37.440 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:22:04.257 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:22:32.348 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:22:57.440 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:23:25.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:23:51.946 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:24:19.429 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:24:44.890 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:25:08.212 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:25:38.062 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:26:02.377 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:26:30.729 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:26:56.291 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:27:19.554 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:27:48.246 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:28:16.555 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:28:44.249 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:29:14.188 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:29:41.820 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 17:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 17:30:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:30:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:30:24.881 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:30:52.889 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:31:21.228 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:31:46.163 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:32:09.341 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:32:35.724 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:33:05.410 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:33:30.351 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:33:55.579 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:34:21.450 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:34:47.777 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 17:35:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:35:27.370 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:35:50.517 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:36:17.032 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:36:41.808 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:37:04.968 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:37:31.248 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:37:59.305 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:38:23.843 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:38:52.722 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:39:16.499 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:39:44.022 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 17:40:00.277 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:40:00.277 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 17:40:00.277 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:40:00.277 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 17:40:00.570 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 17:40:00.570 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:40:00.570 +05:30 [Debug] Deleting trigger
+2021-08-07 17:40:00.570 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:40:00.570 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 17:40:00.581 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 17:40:00.581 +05:30 [Debug] Deleting trigger
+2021-08-07 17:40:27.106 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:40:50.604 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:41:13.678 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:41:42.918 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:42:06.175 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:42:29.653 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:42:54.525 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:43:19.557 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:43:44.386 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:44:08.592 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:44:36.464 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:45:03.934 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:45:30.831 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:45:57.262 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:46:25.039 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:46:52.934 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:47:22.468 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:47:52.438 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:48:16.250 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:48:39.479 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:49:02.601 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:49:29.813 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:49:58.208 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:50:21.388 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:50:46.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:51:14.556 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:51:39.821 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:52:09.192 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:52:37.381 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:53:06.563 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:53:34.653 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:54:02.786 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:54:27.195 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:54:53.580 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:55:17.729 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:55:43.103 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:56:07.284 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:56:33.116 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:56:58.863 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:57:21.953 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:57:51.435 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:58:19.263 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:58:45.302 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:59:11.317 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 17:59:40.969 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 18:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:00:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:00:26.563 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:00:49.971 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:01:13.637 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:01:36.705 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:02:04.042 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:02:30.163 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:02:58.714 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:03:27.028 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:03:54.397 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:04:22.889 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:04:52.225 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 18:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:05:00.001 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 18:05:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:05:00.155 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:05:00.155 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:05:00.155 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:05:00.155 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 18:05:00.330 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:05:00.330 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:05:00.330 +05:30 [Debug] Deleting trigger
+2021-08-07 18:05:00.330 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 18:05:00.330 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:05:00.340 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:05:00.340 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:05:00.340 +05:30 [Debug] Deleting trigger
+2021-08-07 18:05:00.340 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:05:00.340 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 18:05:00.367 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:05:00.367 +05:30 [Debug] Deleting trigger
+2021-08-07 18:05:27.718 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:05:54.419 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:06:22.727 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:06:47.296 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:07:15.145 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:07:44.808 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:08:08.774 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:08:37.601 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:09:05.941 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:09:32.848 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 18:10:01.666 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:10:01.666 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:10:01.667 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:10:01.667 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 18:10:01.683 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:10:01.683 +05:30 [Debug] Deleting trigger
+2021-08-07 18:10:24.949 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:10:48.102 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:11:16.889 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:11:43.568 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:12:11.116 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:12:40.774 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:13:08.815 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:13:33.544 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:13:59.151 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:14:22.924 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:14:48.487 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 18:15:00.265 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:15:00.265 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:15:00.265 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:15:00.265 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 18:15:00.283 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:15:00.283 +05:30 [Debug] Deleting trigger
+2021-08-07 18:15:29.847 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:15:59.059 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:16:26.745 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:16:53.668 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:17:17.682 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:17:45.050 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:18:11.648 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:18:37.356 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:19:03.155 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:19:27.682 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:19:53.911 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:20:21.868 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:20:47.730 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:21:17.445 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:21:46.484 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:22:16.266 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:22:42.708 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:23:08.879 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:23:34.486 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:24:02.169 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:24:27.487 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:24:57.314 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:25:25.911 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:25:49.510 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:26:12.902 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:26:42.527 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:27:09.840 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:27:33.244 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:27:57.534 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:28:26.896 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:28:55.278 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:29:19.880 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:29:45.150 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 18:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 18:30:00.014 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:30:00.014 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:30:25.760 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:30:54.492 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:31:18.728 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:31:44.408 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:32:10.487 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:32:40.059 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:33:04.806 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:33:34.704 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:33:58.579 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:34:27.717 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:34:52.101 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 18:35:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:35:23.116 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:35:46.692 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:36:12.227 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:36:36.321 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:37:03.396 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:37:26.661 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:37:52.097 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:38:16.569 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:38:44.214 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:39:13.831 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:39:40.925 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 18:40:00.281 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 18:40:00.281 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:40:00.281 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:40:00.281 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 18:40:00.649 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 18:40:00.649 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:40:00.649 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:40:00.649 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 18:40:00.649 +05:30 [Debug] Deleting trigger
+2021-08-07 18:40:00.659 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 18:40:00.659 +05:30 [Debug] Deleting trigger
+2021-08-07 18:40:24.407 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:40:48.859 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:41:16.180 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:41:45.325 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:42:09.142 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:42:32.772 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:42:56.518 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:43:25.470 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:43:50.193 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:44:14.056 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:44:43.152 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:45:10.925 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:45:40.907 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:46:08.526 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:46:37.082 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:47:04.627 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:47:31.455 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:47:55.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:48:22.151 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:48:45.369 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:49:09.416 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:49:38.902 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:50:06.120 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:50:34.739 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:51:04.430 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:51:28.143 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:51:51.775 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:52:16.538 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:52:40.010 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:53:08.902 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:53:34.289 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:54:03.504 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:54:31.594 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:54:55.416 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:55:24.926 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:55:48.937 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:56:15.571 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:56:45.166 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:57:08.386 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:57:36.579 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:58:06.058 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:58:34.305 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:59:00.042 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:59:25.005 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 18:59:49.268 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 19:00:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:00:24.125 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:00:50.749 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:01:17.394 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:01:31.419 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:01:31.419 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:01:31.419 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 19:01:31.678 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:01:31.678 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:01:31.678 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:01:31.678 +05:30 [Debug] Deleting trigger
+2021-08-07 19:01:31.678 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 19:01:31.693 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:01:31.693 +05:30 [Debug] Deleting trigger
+2021-08-07 19:01:58.242 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:02:26.647 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:02:55.699 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:03:20.875 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:03:45.188 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:03:45.188 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:03:45.189 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 19:03:45.473 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:03:45.473 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:03:45.473 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:03:45.473 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 19:03:45.473 +05:30 [Debug] Deleting trigger
+2021-08-07 19:03:45.490 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:03:45.490 +05:30 [Debug] Deleting trigger
+2021-08-07 19:04:10.309 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:04:36.824 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 19:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:00.000 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 19:05:00.015 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:05:00.223 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:00.223 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:00.223 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 19:05:00.223 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:05:00.409 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:00.409 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:05:00.409 +05:30 [Debug] Deleting trigger
+2021-08-07 19:05:00.409 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 19:05:00.409 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:00.416 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:00.416 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:05:00.416 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:00.417 +05:30 [Debug] Deleting trigger
+2021-08-07 19:05:00.417 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 19:05:00.429 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:05:00.429 +05:30 [Debug] Deleting trigger
+2021-08-07 19:05:30.072 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:55.505 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:57.454 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:57.454 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:57.454 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 19:05:57.729 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:05:57.729 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:05:57.729 +05:30 [Debug] Deleting trigger
+2021-08-07 19:05:57.730 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:05:57.730 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 19:05:57.740 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:05:57.740 +05:30 [Debug] Deleting trigger
+2021-08-07 19:06:25.037 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:06:48.152 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:07:16.976 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:07:42.564 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:08:11.360 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:08:36.093 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:09:00.179 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:09:28.606 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:09:53.905 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 19:10:02.170 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:10:02.170 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:10:02.170 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:10:02.170 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 19:10:02.188 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:10:02.188 +05:30 [Debug] Deleting trigger
+2021-08-07 19:10:26.219 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:10:51.702 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:11:15.767 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:11:39.311 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:12:06.503 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:12:29.586 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:12:52.886 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:13:21.580 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:13:48.314 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:14:12.878 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:14:40.819 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 19:15:00.356 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:15:00.356 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:15:00.356 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:15:00.357 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 19:15:00.376 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:15:00.376 +05:30 [Debug] Deleting trigger
+2021-08-07 19:15:28.878 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:15:56.778 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:16:26.682 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:16:54.487 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:17:22.069 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:17:48.249 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:18:16.617 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:18:40.533 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:19:07.731 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:19:35.458 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:19:59.428 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:20:28.848 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:20:58.376 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:21:23.083 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:21:49.478 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:22:17.351 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:22:45.582 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:23:13.207 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:23:43.099 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:24:08.429 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:24:34.867 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:24:58.360 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:25:23.657 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:25:51.627 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:26:16.549 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:26:41.946 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:27:05.635 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:27:33.103 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:28:02.724 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:28:28.996 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:28:54.296 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:29:18.460 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:29:48.065 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 19:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 19:30:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:30:00.025 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:30:28.974 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:30:57.084 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:31:24.568 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:31:53.088 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:32:17.004 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:32:41.113 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:33:09.859 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:33:34.240 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:33:58.620 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:34:27.163 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:34:52.209 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 19:35:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:35:28.462 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:35:52.609 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:36:18.118 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:36:43.409 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:37:12.704 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:37:37.362 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:38:03.293 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:38:29.908 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:38:53.963 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:39:20.165 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:39:44.391 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 19:40:00.460 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:40:00.461 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 19:40:00.461 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:40:00.461 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 19:40:00.878 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:40:00.878 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 19:40:00.878 +05:30 [Debug] Deleting trigger
+2021-08-07 19:40:00.879 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 19:40:00.880 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:40:00.908 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 19:40:00.908 +05:30 [Debug] Deleting trigger
+2021-08-07 19:40:28.590 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:40:58.230 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:41:25.879 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:41:53.443 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:42:18.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:42:41.865 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:43:05.762 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:43:29.369 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:43:57.930 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:44:26.627 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:44:51.205 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:45:20.327 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:45:46.565 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:46:10.405 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:46:34.584 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:47:04.422 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:47:32.105 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:47:56.900 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:48:24.313 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:48:54.108 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:49:21.807 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:49:46.671 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:50:15.719 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:50:43.625 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:51:10.501 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:51:39.079 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:52:07.966 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:52:35.387 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:53:04.872 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:53:34.751 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:54:03.258 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:54:33.239 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:55:01.414 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:55:29.504 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:55:54.187 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:56:19.666 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:56:49.220 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:57:17.710 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:57:45.015 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:58:08.047 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:58:35.241 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:59:01.934 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:59:27.590 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 19:59:55.934 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 20:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:00:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:00:25.538 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:00:48.715 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:01:18.516 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:01:46.955 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:02:16.709 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:02:45.989 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:03:09.384 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:03:35.742 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:03:59.937 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:04:29.688 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:04:54.856 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 20:05:00.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:00.001 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 20:05:00.038 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:05:00.771 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:00.771 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:05:00.771 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:00.771 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 20:05:00.997 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:00.997 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:05:00.997 +05:30 [Debug] Deleting trigger
+2021-08-07 20:05:00.998 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:00.998 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 20:05:01.005 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:05:01.005 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:01.005 +05:30 [Debug] Deleting trigger
+2021-08-07 20:05:01.005 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:01.005 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 20:05:01.048 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:05:01.048 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:01.048 +05:30 [Debug] Calling Execute on job Notifications.INotificationService
+2021-08-07 20:05:01.242 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:05:01.243 +05:30 [Debug] Deleting trigger
+2021-08-07 20:05:01.607 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:05:01.607 +05:30 [Debug] Deleting trigger
+2021-08-07 20:05:26.160 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:05:53.317 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:06:17.453 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:06:41.317 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:07:09.236 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:07:35.834 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:07:59.339 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:08:24.993 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:08:51.582 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:09:16.855 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:09:40.323 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 20:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:10:01.657 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:10:01.657 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:10:01.657 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:10:01.657 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 20:10:01.674 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:10:01.674 +05:30 [Debug] Deleting trigger
+2021-08-07 20:10:29.214 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:10:57.210 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:11:20.852 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:11:43.874 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:12:07.072 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:12:35.030 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:12:59.378 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:13:24.142 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:13:50.614 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:14:20.536 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:14:49.070 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 20:15:00.263 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:15:00.263 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:15:00.263 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:15:00.263 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 20:15:00.281 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:15:00.282 +05:30 [Debug] Deleting trigger
+2021-08-07 20:15:23.900 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:15:50.276 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:16:13.328 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:16:40.304 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:17:03.629 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:17:29.700 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:17:53.742 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:18:17.840 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:18:45.069 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:19:08.593 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:19:31.618 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:19:58.182 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:20:26.862 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:20:52.071 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:21:16.906 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:21:44.376 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:22:08.156 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:22:34.054 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:23:00.150 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:23:23.473 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:23:51.898 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:24:15.281 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:24:42.496 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:25:09.477 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:25:33.119 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:25:56.196 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:26:23.087 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:26:52.407 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:27:18.606 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:27:42.978 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:28:10.033 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:28:39.379 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:29:05.212 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:29:31.436 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 20:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 20:30:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:30:00.012 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:30:24.611 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:30:54.283 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:31:21.465 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:31:50.901 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:32:19.883 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:32:48.973 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:33:12.845 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:33:39.712 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:34:04.604 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:34:33.655 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 20:35:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:35:24.867 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:35:54.036 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:36:19.420 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:36:44.390 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:37:08.703 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:37:35.722 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:38:04.247 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:38:33.892 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:39:01.511 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:39:25.925 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:39:52.217 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 20:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:40:00.374 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:40:00.374 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 20:40:00.375 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:40:00.375 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 20:40:00.718 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:40:00.718 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:40:00.718 +05:30 [Debug] Deleting trigger
+2021-08-07 20:40:00.718 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 20:40:00.718 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:40:00.745 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:40:00.746 +05:30 [Debug] Deleting trigger
+2021-08-07 20:40:28.024 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:40:57.541 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:43:03.712 +05:30 [Information] Default Quartz.NET properties loaded from embedded resource file
+2021-08-07 20:43:03.773 +05:30 [Debug] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2021-08-07 20:43:03.777 +05:30 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-08-07 20:43:03.779 +05:30 [Information] Quartz Scheduler v."3.1.0.0" created.
+2021-08-07 20:43:03.781 +05:30 [Information] RAMJobStore initialized.
+2021-08-07 20:43:03.783 +05:30 [Information] Scheduler meta-data: Quartz Scheduler (v3.1.0.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-08-07 20:43:03.784 +05:30 [Information] Quartz scheduler 'DefaultQuartzScheduler' initialized
+2021-08-07 20:43:03.784 +05:30 [Information] Quartz scheduler version: 3.1.0.0
+2021-08-07 20:43:03.785 +05:30 [Information] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2021-08-07 20:43:03.865 +05:30 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-08-07 20:43:03.870 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:43:28.169 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:43:54.255 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:44:20.632 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:44:43.673 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:45:07.035 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:45:20.902 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:45:20.911 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:45:20.941 +05:30 [Debug] Calling Execute on job Notifications.INotificationService
+2021-08-07 20:45:21.189 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:45:21.198 +05:30 [Debug] Deleting trigger
+2021-08-07 20:45:47.547 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:46:13.136 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:46:36.591 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:47:05.600 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:47:30.561 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 20:47:30.562 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:47:30.562 +05:30 [Debug] Calling Execute on job Notifications.INotificationService
+2021-08-07 20:47:30.597 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 20:47:30.597 +05:30 [Debug] Deleting trigger
+2021-08-07 20:47:38.394 +05:30 [Error] There was no season numer 3 in Sonarr for title "Dragon Ball Z Kai"
+2021-08-07 20:47:38.397 +05:30 [Error] There was no season numer 4 in Sonarr for title "Dragon Ball Z Kai"
+2021-08-07 20:47:38.397 +05:30 [Error] There was no season numer 5 in Sonarr for title "Dragon Ball Z Kai"
+2021-08-07 20:47:38.397 +05:30 [Error] There was no season numer 6 in Sonarr for title "Dragon Ball Z Kai"
+2021-08-07 20:47:53.720 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:48:17.392 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:48:41.296 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:49:05.096 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:49:28.927 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:49:57.244 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:50:24.807 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:50:49.398 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:51:13.892 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:51:43.268 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:52:07.101 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:52:35.315 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:53:03.500 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:53:27.618 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:53:52.211 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:54:18.846 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:54:48.569 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:55:17.503 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:55:47.002 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:56:15.260 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:56:43.394 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:57:11.381 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:57:40.403 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:58:08.751 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:58:32.664 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:59:00.023 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:59:29.157 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 20:59:57.836 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:00:00.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:00:00.002 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 21:00:00.023 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:00:26.609 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:00:50.153 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:01:13.549 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:01:38.460 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:02:07.275 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:02:31.160 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:02:57.441 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:03:24.103 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:03:53.411 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:04:21.217 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:04:44.463 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 21:05:00.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:05:00.006 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 21:05:00.037 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:05:00.597 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:05:00.598 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:05:00.598 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 21:05:00.599 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:05:00.943 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:05:00.943 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:05:00.943 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 21:05:00.943 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:05:00.943 +05:30 [Debug] Deleting trigger
+2021-08-07 21:05:00.976 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:05:00.976 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:05:00.976 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 21:05:00.976 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:05:00.976 +05:30 [Debug] Deleting trigger
+2021-08-07 21:05:01.083 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:05:01.083 +05:30 [Debug] Deleting trigger
+2021-08-07 21:05:26.558 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:05:49.754 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:06:18.190 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:06:47.620 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:07:15.226 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:07:38.600 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:08:02.567 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:08:29.120 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:08:54.066 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:09:21.477 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:09:44.563 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 21:10:01.694 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:10:01.694 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:10:01.694 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:10:01.694 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 21:10:01.777 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:10:01.777 +05:30 [Debug] Deleting trigger
+2021-08-07 21:10:27.080 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:10:56.588 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:11:22.559 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:11:51.292 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:12:21.128 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:12:46.592 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:13:15.749 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:13:43.958 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:14:10.333 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:14:39.169 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 21:15:00.309 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:15:00.309 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:15:00.309 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 21:15:00.309 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:15:00.329 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:15:00.329 +05:30 [Debug] Deleting trigger
+2021-08-07 21:15:24.036 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:15:50.922 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:16:17.041 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:16:44.040 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:17:12.322 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:17:38.716 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:18:08.610 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:18:32.784 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:19:01.537 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:19:26.459 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:19:55.303 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:20:18.710 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:20:46.614 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:21:12.199 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:21:37.950 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:22:07.794 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:22:36.067 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:23:03.062 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:23:32.726 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:24:01.978 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:24:28.553 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:24:52.664 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:25:19.952 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:25:48.529 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:26:15.291 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:26:44.983 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:27:13.707 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:27:41.823 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:28:07.115 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:28:32.295 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:28:56.080 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:29:20.547 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:29:46.348 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 21:30:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 21:30:00.011 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:30:00.026 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:30:28.030 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:30:51.360 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:31:18.976 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:31:47.807 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:32:15.123 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:32:44.523 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:33:09.056 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:33:38.879 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:34:02.128 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:34:28.596 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:34:54.076 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 21:35:00.021 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:35:27.532 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:35:54.727 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:36:18.116 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:36:46.173 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:37:15.263 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:37:42.372 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:38:07.429 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:38:35.657 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:38:59.832 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:39:26.429 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:39:52.731 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 21:40:00.454 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:40:00.454 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 21:40:00.454 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:40:00.454 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 21:40:00.830 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 21:40:00.830 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:40:00.830 +05:30 [Debug] Deleting trigger
+2021-08-07 21:40:00.830 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:40:00.830 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 21:40:00.860 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 21:40:00.860 +05:30 [Debug] Deleting trigger
+2021-08-07 21:40:26.205 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:40:50.298 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:41:14.949 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:41:44.324 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:42:11.378 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:42:39.794 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:43:07.094 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:43:35.607 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:44:05.248 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:44:31.935 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:44:55.200 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:45:22.001 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:45:47.923 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:46:15.794 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:46:42.142 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:47:11.012 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:47:40.053 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:48:03.538 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:48:29.829 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:48:59.505 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:49:26.450 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:49:52.528 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:50:19.870 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:50:45.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:51:09.240 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:51:38.519 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:52:05.660 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:52:34.961 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:52:58.279 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:53:24.445 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:53:51.335 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:54:15.447 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:54:39.983 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:55:07.014 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:55:32.284 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:55:57.285 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:56:20.367 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:56:46.150 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:57:13.182 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:57:38.143 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:58:06.712 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:58:31.956 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:58:57.085 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:59:20.694 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 21:59:48.848 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 22:00:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:00:23.949 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:00:53.849 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:01:17.079 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:01:44.173 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:02:08.762 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:02:36.710 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:03:01.983 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:03:27.686 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:03:56.016 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:04:23.860 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:04:53.115 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 22:05:00.000 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 22:05:00.009 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:05:00.177 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:05:00.177 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:05:00.177 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:05:00.177 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 22:05:00.356 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:05:00.356 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:05:00.356 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:05:00.356 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 22:05:00.356 +05:30 [Debug] Deleting trigger
+2021-08-07 22:05:00.364 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:05:00.364 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:05:00.364 +05:30 [Debug] Deleting trigger
+2021-08-07 22:05:00.364 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:05:00.364 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 22:05:00.397 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:05:00.397 +05:30 [Debug] Deleting trigger
+2021-08-07 22:05:25.326 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:05:52.811 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:06:22.434 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:06:51.275 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:07:21.090 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:07:50.524 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:08:20.083 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:08:48.840 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:09:18.610 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:09:46.204 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 22:10:01.639 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:10:01.639 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:10:01.639 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:10:01.639 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 22:10:01.660 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:10:01.660 +05:30 [Debug] Deleting trigger
+2021-08-07 22:10:29.367 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:10:58.616 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:11:24.173 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:11:52.823 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:12:21.606 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:12:49.447 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:13:17.077 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:13:40.581 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:14:05.809 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:14:35.512 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 22:15:00.271 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:15:00.272 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:15:00.272 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:15:00.272 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 22:15:00.294 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:15:00.294 +05:30 [Debug] Deleting trigger
+2021-08-07 22:15:23.427 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:15:53.370 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:16:20.685 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:16:44.636 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:17:08.352 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:17:34.078 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:17:59.506 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:18:26.438 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:18:52.146 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:19:20.772 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:19:50.480 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:20:14.521 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:20:39.975 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:21:04.272 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:21:33.541 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:21:57.276 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:22:24.905 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:22:53.186 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:23:18.528 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:23:47.594 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:24:13.689 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:24:36.986 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:25:02.473 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:25:29.437 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:25:57.303 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:26:23.576 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:26:49.279 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:27:14.106 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:27:38.547 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:28:02.060 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:28:28.749 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:28:52.874 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:29:19.428 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:29:49.375 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 22:30:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:30:00.011 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 22:30:00.018 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:30:27.568 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:30:56.595 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:31:21.377 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:31:49.162 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:32:14.813 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:32:38.120 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:33:06.725 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:33:31.997 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:33:55.187 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:34:18.214 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:34:43.178 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 22:35:00.015 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:35:27.796 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:35:53.816 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:36:17.344 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:36:40.619 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:37:06.649 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:37:33.527 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:38:00.123 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:38:29.827 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:38:53.092 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:39:23.089 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:39:48.933 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 22:40:00.296 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:40:00.296 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 22:40:00.296 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:40:00.296 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 22:40:00.622 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:40:00.622 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 22:40:00.622 +05:30 [Debug] Deleting trigger
+2021-08-07 22:40:00.622 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:40:00.622 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 22:40:00.636 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 22:40:00.636 +05:30 [Debug] Deleting trigger
+2021-08-07 22:40:24.699 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:40:48.697 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:41:13.936 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:41:41.023 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:42:05.485 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:42:31.731 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:42:54.979 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:43:23.014 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:43:47.111 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:44:15.374 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:44:43.855 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:45:09.443 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:45:34.151 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:46:00.241 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:46:27.869 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:46:57.585 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:47:24.257 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:47:51.609 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:48:17.591 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:48:43.820 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:49:12.871 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:49:41.113 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:50:07.025 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:50:34.237 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:51:04.176 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:51:28.870 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:51:52.057 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:52:17.987 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:52:45.649 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:53:13.502 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:53:40.419 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:54:09.718 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:54:35.058 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:55:03.215 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:55:32.387 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:56:02.168 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:56:26.760 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:56:55.052 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:57:19.673 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:57:48.892 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:58:14.069 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:58:41.128 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:59:11.043 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 22:59:35.392 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:00:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:00:00.000 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 23:00:00.011 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:00:29.485 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:00:56.862 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:01:20.574 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:01:47.910 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:02:16.573 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:02:42.196 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:03:09.483 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:03:37.023 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:04:04.633 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:04:33.791 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:05:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:05:00.000 +05:30 [Debug] Calling Execute on job Emby.IEmbyContentSync
+2021-08-07 23:05:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:05:00.000 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinContentSync
+2021-08-07 23:05:00.010 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:05:00.243 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:05:00.243 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:05:00.243 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:05:00.243 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinEpisodeSync
+2021-08-07 23:05:00.430 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:05:00.430 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:05:00.430 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:05:00.430 +05:30 [Debug] Calling Execute on job System.IRefreshMetadata
+2021-08-07 23:05:00.430 +05:30 [Debug] Deleting trigger
+2021-08-07 23:05:00.440 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:05:00.440 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:05:00.441 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:05:00.441 +05:30 [Debug] Deleting trigger
+2021-08-07 23:05:00.441 +05:30 [Debug] Calling Execute on job Jellyfin.IJellyfinAvaliabilityChecker
+2021-08-07 23:05:00.472 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:05:00.472 +05:30 [Debug] Deleting trigger
+2021-08-07 23:05:28.709 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:05:57.922 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:06:24.513 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:06:53.757 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:07:17.687 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:07:47.370 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:08:15.340 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:08:42.842 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:09:07.349 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:09:34.395 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:10:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:10:00.000 +05:30 [Debug] Calling Execute on job DVR.ISonarrSync
+2021-08-07 23:10:01.604 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:10:01.604 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:10:01.604 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:10:01.604 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 23:10:01.623 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:10:01.623 +05:30 [Debug] Deleting trigger
+2021-08-07 23:10:27.597 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:10:57.504 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:11:26.012 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:11:50.374 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:12:17.675 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:12:45.607 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:13:12.995 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:13:36.937 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:14:05.232 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:14:33.068 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:15:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:15:00.000 +05:30 [Debug] Calling Execute on job DVR.IRadarrSync
+2021-08-07 23:15:00.293 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:15:00.293 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:15:00.293 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:15:00.293 +05:30 [Debug] Calling Execute on job DVR.IArrAvailabilityChecker
+2021-08-07 23:15:00.314 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:15:00.314 +05:30 [Debug] Deleting trigger
+2021-08-07 23:15:24.204 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:15:50.581 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:16:16.409 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:16:41.901 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:17:10.197 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:17:34.310 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:18:03.766 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:18:31.255 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:18:57.551 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:19:23.744 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:19:51.169 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:20:16.578 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:20:41.951 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:21:07.736 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:21:32.927 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:21:59.446 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:22:23.769 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:22:50.285 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:23:13.415 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:23:39.812 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:24:08.921 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:24:35.297 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:25:03.075 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:25:28.025 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:25:56.614 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:26:21.541 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:26:47.516 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:27:14.764 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:27:39.760 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:28:09.696 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:28:33.961 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:28:57.728 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:29:27.468 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:29:52.961 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:30:00.000 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:30:00.000 +05:30 [Debug] Calling Execute on job DVR.ICouchPotatoSync
+2021-08-07 23:30:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:30:00.001 +05:30 [Debug] Calling Execute on job Plex.IPlexContentSyncRecentlyAdded
+2021-08-07 23:30:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:30:00.013 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:30:23.586 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:30:53.087 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:31:17.584 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:31:41.843 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:32:05.390 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:32:34.459 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:33:02.125 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:33:27.623 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:33:55.695 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:34:24.113 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:34:52.471 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:35:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:35:00.000 +05:30 [Debug] Calling Execute on job DVR.ISickRageSync
+2021-08-07 23:35:00.011 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:35:28.384 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:35:54.572 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:36:21.052 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:36:45.819 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:37:10.329 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:37:39.063 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:38:06.417 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:38:29.969 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:38:53.159 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:39:17.248 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:39:45.904 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:40:00.000 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:40:00.000 +05:30 [Debug] Calling Execute on job DVR.ILidarrArtistSync
+2021-08-07 23:40:00.324 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:40:00.324 +05:30 [Debug] Trigger instruction : NoInstruction
+2021-08-07 23:40:00.324 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:40:00.324 +05:30 [Debug] Calling Execute on job DVR.ILidarrAlbumSync
+2021-08-07 23:40:00.576 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:40:00.576 +05:30 [Debug] Deleting trigger
+2021-08-07 23:40:00.576 +05:30 [Debug] Batch acquisition of 1 triggers
+2021-08-07 23:40:00.576 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:40:00.576 +05:30 [Debug] Calling Execute on job DVR.ILidarrAvailabilityChecker
+2021-08-07 23:40:00.588 +05:30 [Debug] Trigger instruction : DeleteTrigger
+2021-08-07 23:40:00.588 +05:30 [Debug] Deleting trigger
+2021-08-07 23:40:25.396 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:40:52.686 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:41:20.111 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:41:49.431 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:42:17.099 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:42:40.637 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:43:07.654 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:43:32.666 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:43:58.149 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:44:23.233 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:44:48.533 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:45:16.526 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:45:45.951 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:46:12.164 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:46:38.608 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:47:05.312 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:47:32.465 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:48:00.365 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:48:23.753 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:48:48.565 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:49:13.920 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:49:42.981 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:50:06.805 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:50:30.124 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:50:54.052 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:51:19.373 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:51:44.789 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:52:09.985 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:52:34.729 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:53:00.633 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:53:26.951 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:53:56.057 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:54:23.261 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:54:50.331 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:55:20.039 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:55:47.295 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:56:15.242 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:56:40.943 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:57:04.648 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:57:31.151 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:57:58.350 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:58:22.673 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:58:50.484 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:59:19.297 +05:30 [Debug] Batch acquisition of 0 triggers
+2021-08-07 23:59:48.003 +05:30 [Debug] Batch acquisition of 1 triggers

@@ -1,0 +1,182 @@
+version: '3.3'
+services:
+  jackett:
+    container_name: jackett
+    image: linuxserver/jackett
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/jackett:/config'
+      - '/home/tahmhd/docker/torrents:/downloads'
+    ports:
+      - '9117:9117'
+    restart: unless-stopped
+    
+  sonarr:
+    container_name: sonarr
+    image: linuxserver/sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    ports:
+      - '8989:8989'
+    volumes:
+      - '/home/tahmhd/docker/configs/sonarr:/config'
+      - '/home/tahmhd/docker:/data'
+    restart: unless-stopped
+    
+  radarr:
+    container_name: radarr
+    image: linuxserver/radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    ports:
+      - '7878:7878'
+    volumes:
+      - '/home/tahmhd/docker/configs/radarr:/config'
+      - '/home/tahmhd/docker:/data'
+    restart: unless-stopped
+    
+  lidarr:
+    container_name: lidarr
+    image: ghcr.io/linuxserver/lidarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/liadarr:/config'
+      - '/home/tahmhd/docker:/data'
+    ports:
+      - '8686:8686'
+    restart: unless-stopped
+    
+  readarr:
+    container_name: readarr
+    image: 'hotio/readarr:nightly'
+    ports:
+      - '8787:8787'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/readarr:/config'
+      - '/home/tahmhd/docker:/data'
+    restart: unless-stopped
+    
+  readarr-audio-books:
+    container_name: readarr-audio-books
+    image: 'hotio/readarr:nightly'
+    ports:
+      - '8786:8787'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/readarr-audio-books:/config'
+      - '/home/tahmhd/docker:/data'
+    restart: unless-stopped
+      
+  bazarr:
+    container_name: bazarr
+    image: ghcr.io/linuxserver/bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/bazarr:/config'
+      - '/home/tahmhd/docker:/data'
+    ports:
+      - '6767:6767'
+    restart: unless-stopped
+
+  prowlarr:
+    container_name: prowlarr
+    image: 'hotio/prowlarr:testing'
+    ports:
+      - '9696:9696'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/prowlarr:/config'
+    restart: unless-stopped
+    
+  jellyfin:
+    container_name: jellyfin
+    image: ghcr.io/linuxserver/jellyfin
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    ports:
+      - '8096:8096'
+    devices:
+      - '/dev/dri/renderD128:/dev/dri/renderD128'
+    volumes:
+      - '/home/tahmhd/docker/configs/jellyfin:/config'
+      - '/home/tahmhd/docker/media:/data/media'
+    restart: unless-stopped
+    
+  ombi:
+    container_name: ombi
+    image: ghcr.io/linuxserver/ombi
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/ombi:/config'
+    ports:
+      - '3579:3579'
+    restart: unless-stopped
+    
+  qbittorrent:
+    container_name: qbittorrent
+    image: ghcr.io/linuxserver/qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+      - WEBUI_PORT=8080
+    volumes:
+      - '/home/tahmhd/docker/configs/qbittorrent:/config'
+      - '/home/tahmhd/docker/torrents:/data/torrents'
+    ports:
+      - '8080:8080'
+      - '6881:6881'
+      - '6881:6881/udp'
+    restart: unless-stopped
+    
+  heimdall:
+    container_name: heimdall
+    image: ghcr.io/linuxserver/heimdall
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - '/home/tahmhd/docker/configs/heimdall:/config'
+    ports:
+      - 8090:80
+    restart: unless-stopped
+    
+  flaresolverr:
+    container_name: flaresolverr
+    image: 'ghcr.io/flaresolverr/flaresolverr:latest'
+    ports:
+      - '8191:8191'
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    restart: unless-stopped

@@ -1,0 +1,32 @@
+01/08/2021 09:51:32|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+01/08/2021 09:51:32|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+01/08/2021 09:51:32|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+01/08/2021 09:51:33|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+01/08/2021 09:51:33|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+01/08/2021 09:56:42|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+01/08/2021 09:56:42|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+01/08/2021 09:56:42|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+01/08/2021 09:56:42|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+01/08/2021 09:56:42|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+01/08/2021 12:48:53|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+01/08/2021 12:50:50|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+01/08/2021 15:48:52|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+01/08/2021 15:50:50|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+01/08/2021 17:22:59|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+01/08/2021 17:22:59|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+01/08/2021 17:22:59|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+01/08/2021 17:22:59|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+01/08/2021 17:22:59|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+01/08/2021 21:42:50|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+01/08/2021 21:42:50|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+01/08/2021 21:42:50|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+01/08/2021 21:42:51|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+01/08/2021 21:42:51|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+01/08/2021 22:46:00|ERROR   |root                            |BAZARR Error trying to get episodeFiles from Sonarr. Http error.|'Traceback (most recent call last):\n  File "/app/bazarr/bin/bazarr/get_episodes.py", line 415, in get_episodesFiles_from_sonarr_api\n    r.raise_for_status()\n  File "/app/bazarr/bin/bazarr/../libs/requests/models.py", line 943, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://***.***.***.***:8989/api/v3/episodeFile/120?apikey=(removed)'|
+01/08/2021 23:40:11|INFO    |root                            |Throttling opensubtitlescom for 10 minutes, until 21/08/01 23:50, because of: ProviderError. Exception info: 'Unable to obtain an authentication token'|
+01/08/2021 23:40:25|ERROR   |ffsubsync.ffsubsync             |Synchronization failed; consider passing --max-offset-seconds with a number larger than 60|
+01/08/2021 23:40:25|ERROR   |root                            |BAZARR unable to sync subtitles: /data/media/tv/That '70s Show/Season 5/That '70s Show - S05E01 - Going to California Bluray-1080p.srt|
+01/08/2021 23:40:37|INFO    |root                            |Throttling opensubtitlescom for 10 minutes, until 21/08/01 23:50, because of: ProviderError. Exception info: 'Unable to obtain an authentication token'|
+01/08/2021 23:48:50|WARNING |urllib3.connectionpool          |Retrying (Retry(total=9, connect=4, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f16fc9ed400>: Failed to establish a new connection: [Errno 111] Connection refused')': /|
+01/08/2021 23:48:55|WARNING |urllib3.connectionpool          |Retrying (Retry(total=8, connect=3, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f16fcb324f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /|
+01/08/2021 23:49:03|WARNING |urllib3.connectionpool          |Retrying (Retry(total=7, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f16fc745f10>: Failed to establish a new connection: [Errno 111] Connection refused')': /|

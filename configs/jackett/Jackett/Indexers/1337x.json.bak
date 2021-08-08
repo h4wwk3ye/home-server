@@ -1,0 +1,71 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www.1337xx.to/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "cf_clearance=9323ef00c1d765e9883088481d2783d62e93fbcc-1628331831-0-150; cf_chl_2=816f0da395bb302; cf_chl_prog=a11; ppu_main_94393812dbfbb59ca703fa4eba921fb6=1; dom3ic8zudi28v8lr6fgphwffqoz0j6c=55567551-f375-4add-a47f-7e08b2dcd901%3A2%3A1; pbpr0tpuw4isk85t8yg3jb2lj5vqf=confrontationdrunk.com; sb_count_163c43769401bee2c6f0831d393be424=1; sb_main_163c43769401bee2c6f0831d393be424=1; cf_chl_rc_ni=3"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": "Exception (1337x): Name or service not known: Name or service not known (www.1377xx.to:443)"
+  },
+  {
+    "id": "downloadlink",
+    "type": "inputselect",
+    "name": "Download link",
+    "value": "magnet:",
+    "options": {
+      "http://itorrents.org/": "iTorrents.org",
+      "http://torrage.info/": "Torrage",
+      "http://btcache.me/": "BTcache",
+      "magnet:": "magnet"
+    }
+  },
+  {
+    "id": "downloadlink(fallback)",
+    "type": "inputselect",
+    "name": "Download link (fallback)",
+    "value": "http://itorrents.org/",
+    "options": {
+      "http://itorrents.org/": "iTorrents.org",
+      "http://torrage.info/": "Torrage",
+      "http://btcache.me/": "BTcache",
+      "magnet:": "magnet"
+    }
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "time",
+    "options": {
+      "time": "created",
+      "seeders": "seeders",
+      "size": "size"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "desc",
+    "options": {
+      "desc": "desc",
+      "asc": "asc"
+    }
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

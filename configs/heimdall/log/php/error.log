@@ -1,0 +1,72 @@
+[01-Aug-2021 22:27:56] NOTICE: fpm is running, pid 679
+[01-Aug-2021 22:27:56] NOTICE: ready to handle connections
+[01-Aug-2021 22:29:34] NOTICE: Terminating ...
+[01-Aug-2021 22:29:34] NOTICE: exiting, bye-bye!
+[01-Aug-2021 22:29:48] NOTICE: fpm is running, pid 370
+[01-Aug-2021 22:29:48] NOTICE: ready to handle connections
+[01-Aug-2021 23:49:09] NOTICE: Terminating ...
+[01-Aug-2021 23:49:10] NOTICE: exiting, bye-bye!
+[02-Aug-2021 00:47:03] NOTICE: fpm is running, pid 352
+[02-Aug-2021 00:47:03] NOTICE: ready to handle connections
+[02-Aug-2021 00:52:30] NOTICE: Terminating ...
+[02-Aug-2021 00:52:30] NOTICE: exiting, bye-bye!
+[02-Aug-2021 00:55:21] NOTICE: fpm is running, pid 353
+[02-Aug-2021 00:55:22] NOTICE: ready to handle connections
+[02-Aug-2021 00:58:08] NOTICE: Terminating ...
+[02-Aug-2021 00:58:08] NOTICE: exiting, bye-bye!
+[02-Aug-2021 09:45:57] NOTICE: fpm is running, pid 353
+[02-Aug-2021 09:45:57] NOTICE: ready to handle connections
+[02-Aug-2021 09:47:25] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[02-Aug-2021 12:51:24] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[02-Aug-2021 16:47:59] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[02-Aug-2021 16:53:15] NOTICE: Terminating ...
+[02-Aug-2021 16:53:15] NOTICE: exiting, bye-bye!
+[04-Aug-2021 14:55:03] NOTICE: fpm is running, pid 353
+[04-Aug-2021 14:55:03] NOTICE: ready to handle connections
+[04-Aug-2021 14:57:00] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[04-Aug-2021 21:23:22] NOTICE: Terminating ...
+[04-Aug-2021 21:23:23] NOTICE: exiting, bye-bye!
+[04-Aug-2021 21:25:12] NOTICE: fpm is running, pid 354
+[04-Aug-2021 21:25:12] NOTICE: ready to handle connections
+[04-Aug-2021 23:50:53] NOTICE: Terminating ...
+[04-Aug-2021 23:50:53] NOTICE: exiting, bye-bye!
+[05-Aug-2021 17:32:58] NOTICE: fpm is running, pid 352
+[05-Aug-2021 17:32:58] NOTICE: ready to handle connections
+[05-Aug-2021 17:34:06] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[05-Aug-2021 17:56:26] NOTICE: fpm is running, pid 354
+[05-Aug-2021 17:56:26] NOTICE: ready to handle connections
+[05-Aug-2021 18:57:04] NOTICE: Terminating ...
+[05-Aug-2021 18:57:04] NOTICE: exiting, bye-bye!
+[07-Aug-2021 13:18:51] NOTICE: fpm is running, pid 367
+[07-Aug-2021 13:18:52] NOTICE: ready to handle connections
+[07-Aug-2021 13:19:36] NOTICE: Terminating ...
+[07-Aug-2021 13:19:36] NOTICE: exiting, bye-bye!
+[07-Aug-2021 13:24:20] NOTICE: fpm is running, pid 354
+[07-Aug-2021 13:24:20] NOTICE: ready to handle connections
+[07-Aug-2021 13:26:26] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[07-Aug-2021 13:26:42] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[07-Aug-2021 20:41:38] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[08-Aug-2021 13:32:53] NOTICE: Terminating ...
+[08-Aug-2021 13:32:53] NOTICE: exiting, bye-bye!
+[08-Aug-2021 13:37:32] NOTICE: fpm is running, pid 356
+[08-Aug-2021 13:37:32] NOTICE: ready to handle connections
+[08-Aug-2021 13:48:53] NOTICE: Terminating ...
+[08-Aug-2021 13:48:53] NOTICE: exiting, bye-bye!
+[08-Aug-2021 13:52:00] NOTICE: fpm is running, pid 352
+[08-Aug-2021 13:52:00] NOTICE: ready to handle connections
+[08-Aug-2021 15:00:17] NOTICE: Terminating ...
+[08-Aug-2021 15:00:17] NOTICE: exiting, bye-bye!
+[08-Aug-2021 15:01:59] NOTICE: fpm is running, pid 385
+[08-Aug-2021 15:01:59] NOTICE: ready to handle connections
+[08-Aug-2021 15:05:33] NOTICE: Terminating ...
+[08-Aug-2021 15:05:33] NOTICE: exiting, bye-bye!
+[08-Aug-2021 15:07:18] NOTICE: fpm is running, pid 367
+[08-Aug-2021 15:07:18] NOTICE: ready to handle connections
+[08-Aug-2021 15:07:42] NOTICE: Terminating ...
+[08-Aug-2021 15:07:42] NOTICE: exiting, bye-bye!
+[08-Aug-2021 15:09:20] NOTICE: fpm is running, pid 367
+[08-Aug-2021 15:09:20] NOTICE: ready to handle connections
+[08-Aug-2021 15:11:59] NOTICE: Terminating ...
+[08-Aug-2021 15:11:59] NOTICE: exiting, bye-bye!
+[08-Aug-2021 15:12:41] NOTICE: fpm is running, pid 368
+[08-Aug-2021 15:12:41] NOTICE: ready to handle connections
